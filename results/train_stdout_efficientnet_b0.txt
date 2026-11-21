@@ -1,0 +1,18 @@
+﻿efficientnet_b0: 4.03 M параметрів | train 16516, val 3504 | batch 64 | AMP fp16 | cuda (NVIDIA GeForce RTX 2050)
+[ 1 frozen  ] train loss 1.7717 acc 0.7209 | val loss 1.9584 acc 0.8413 F1 0.8102 | 120s 138 img/s VRAM 639 MB  ← best
+[ 2 frozen  ] train loss 1.4090 acc 0.8421 | val loss 1.8770 acc 0.8716 F1 0.8358 | 43s 384 img/s VRAM 391 MB  ← best
+[ 3 frozen  ] train loss 1.3535 acc 0.8702 | val loss 1.8485 acc 0.8767 F1 0.8397 | 34s 486 img/s VRAM 390 MB  ← best
+[ 4 finetune] train loss 1.6921 acc 0.7292 | val loss 1.7066 acc 0.9321 F1 0.9052 | 125s 132 img/s VRAM 2856 MB  ← best
+[ 5 finetune] train loss 1.1535 acc 0.9486 | val loss 1.5666 acc 0.9683 F1 0.9505 | 74s 223 img/s VRAM 2853 MB  ← best
+[ 6 finetune] train loss 1.0767 acc 0.9740 | val loss 1.5249 acc 0.9772 F1 0.9705 | 74s 223 img/s VRAM 2853 MB  ← best
+[ 7 finetune] train loss 1.0404 acc 0.9818 | val loss 1.5014 acc 0.9783 F1 0.9753 | 74s 223 img/s VRAM 2853 MB  ← best
+[ 8 finetune] train loss 1.0163 acc 0.9873 | val loss 1.4887 acc 0.9806 F1 0.9789 | 74s 222 img/s VRAM 2853 MB  ← best
+[ 9 finetune] train loss 0.9998 acc 0.9910 | val loss 1.4687 acc 0.9874 F1 0.9864 | 74s 224 img/s VRAM 2853 MB  ← best
+[10 finetune] train loss 0.9926 acc 0.9912 | val loss 1.4655 acc 0.9874 F1 0.9884 | 74s 223 img/s VRAM 2853 MB  ← best
+[11 finetune] train loss 0.9869 acc 0.9918 | val loss 1.4549 acc 0.9883 F1 0.9901 | 89s 185 img/s VRAM 2853 MB  ← best
+[12 finetune] train loss 0.9847 acc 0.9927 | val loss 1.4574 acc 0.9877 F1 0.9895 | 91s 182 img/s VRAM 2853 MB
+[13 finetune] train loss 0.9778 acc 0.9945 | val loss 1.4550 acc 0.9880 F1 0.9877 | 86s 193 img/s VRAM 2853 MB
+[14 finetune] train loss 0.9778 acc 0.9949 | val loss 1.4514 acc 0.9886 F1 0.9889 | 74s 224 img/s VRAM 2853 MB
+[15 finetune] train loss 0.9746 acc 0.9958 | val loss 1.4534 acc 0.9877 F1 0.9897 | 74s 224 img/s VRAM 2853 MB
+Рання зупинка: 4 епохи без покращення val F1.
+Готово за 22.1 хв. Найкраща епоха 11, val macro-F1 0.9901 → C:\Users\kuril\OneDrive\Документи\Університ\АКС\4 прєкт\agroscan\models\agroscan_efficientnet_b0.pt

@@ -1,0 +1,22 @@
+{
+  "n_common_classes": 14,
+  "unreadable_files": [],
+  "all_images": {
+    "n": 1241,
+    "accuracy": 0.257856567284448,
+    "top3_accuracy": 0.4939564867042707,
+    "crop_accuracy": 0.6736502820306205,
+    "precision_macro": 0.39549113989798046,
+    "recall_macro": 0.22268710479711643,
+    "f1_macro": 0.2194345231402661
+  },
+  "plantdoc_test_folder_only": {
+    "n": 114,
+    "accuracy": 0.2982456140350877,
+    "top3_accuracy": 0.543859649122807,
+    "crop_accuracy": 0.7807017543859649,
+    "precision_macro": 0.3312490785787999,
+    "recall_macro": 0.26406926406926406,
+    "f1_macro": 0.2503295917384957
+  }
+}

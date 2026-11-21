@@ -1,0 +1,7 @@
+{
+  "val_loss_as_in_train_py (weighted+LS, unshuffled batches of 64)": 1.4548629544096994,
+  "val_loss_weighted+LS, shuffled batches of 64": 0.9719881399037087,
+  "val_loss_weighted+LS, whole set at once": 0.9606651067733765,
+  "val_loss_unweighted_CE_with_LS0.1": 0.7463660836219788,
+  "val_loss_unweighted_CE_plain": 0.320620596408844
+}

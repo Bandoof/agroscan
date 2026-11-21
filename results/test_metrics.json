@@ -1,0 +1,15 @@
+{
+  "checkpoint": "agroscan_efficientnet_b0.pt",
+  "arch": "efficientnet_b0",
+  "best_epoch": 11,
+  "n_test": 3463,
+  "n_errors": 24,
+  "accuracy": 0.9930695928385793,
+  "precision_macro": 0.9911973948669441,
+  "recall_macro": 0.9937683664261707,
+  "f1_macro": 0.9923722191920312,
+  "precision_weighted": 0.9932158597016311,
+  "recall_weighted": 0.9930695928385793,
+  "f1_weighted": 0.9930695821767763,
+  "test_loss_unweighted_ce": 0.31262722611427307
+}

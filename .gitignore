@@ -1,0 +1,23 @@
+# Віртуальне середовище (живе поза репо: C:\Users\<user>\.venvs\agroscan)
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Датасети НЕ зберігаються в репо (див. README → «Дані»)
+datasets/
+*.zip
+data/images/
+
+# Локальні налаштування інструментів
+.claude/
+.vscode/
+.idea/
+.streamlit/secrets.toml
+
+# Тимчасові чекпоінти перевірочних запусків
+models/*_smoke.pt
+results/*_smoke.*

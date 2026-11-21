@@ -1,0 +1,44 @@
+﻿GPU: NVIDIA GeForce RTX 2050 | torch 2.14.1+cu126 | cuDNN 91002 | cudnn.benchmark=True | TF32 off
+
+Частина 1. Сумарний час forward+backward усіх Conv2d (batch 32), мс:
+  тип              к-сть       FP32       FP16  FP32/FP16  частка FP32
+  depthwise k×k       16       70.8       63.3        1.1×       42.3%
+  pointwise 1×1       64       91.4       48.8        1.9×       54.7%
+  звичайна k×k         1        5.1        5.4        0.9×        3.0%
+  УСІ Conv2d          81      167.2      117.5        1.4×
+
+Частина 2. torch.profiler, 1 крок навчання (після прогріву), топ-8 CUDA-ядер:
+python.exe : USDT:2026-11-21 17:27:26 36816:19212 C:\actions-runner\_work\pytorch\pytorch\third_party\kineto\libkineto\
+src\SyncActivityProfilerHandler.cpp:39] profiler_start
+At line:1 char:333
++ ... NG='utf-8'; & C:\Users\kuril\.venvs\agroscan\Scripts\python.exe -u sc ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (USDT:2026-11-21... profiler_start:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+USDT:2026-11-21 17:27:26 36816:19212 C:\actions-runner\_work\pytorch\pytorch\third_party\kineto\libkineto\src\SyncActiv
+ityProfilerHandler.cpp:46] profiler_stop
+
+  FP32 (TF32 off): сумарний час CUDA-ядер 268.9 мс
+        23.0 мс   8.5%  x16   _ZN2at6native51_GLOBAL__N__68a3d168_18_DepthwiseConv2d_cu_2ee6150b35conv_depthwise2d_grad_weigh
+        22.4 мс   8.3%  x49   _ZN2at6native29vectorized_elementwise_kernelILi4EZZZNS0_62_GLOBAL__N__a30504db_23_ActivationSil
+        15.2 мс   5.7%  x53   Memcpy DtoD (Device -> Device)
+        15.1 мс   5.6%  x49   _ZN2at6native29vectorized_elementwise_kernelILi4EZZZNS0_62_GLOBAL__N__a30504db_23_ActivationSil
+        13.3 мс   5.0%  x4    _ZN5cudnn21bn_bw_1C11_kernel_newIff6float2Li512ELb1ELi1EEEvT0_S2_S2_S2_17cudnnTensorStructPKT_S
+        12.3 мс   4.6%  x24   _ZN5cudnn21bn_bw_1C11_kernel_newIff6float2Li32ELb1ELi1EEEvT0_S2_S2_S2_17cudnnTensorStructPKT_S3
+        12.2 мс   4.5%  x50   _ZN2at6native18elementwise_kernelILi128ELi2EZNS0_22gpu_kernel_impl_nocastINS0_13BinaryFunctorIf
+        10.9 мс   4.1%  x6    _ZN5cudnn21bn_bw_1C11_kernel_newIff6float2Li128ELb1ELi1EEEvT0_S2_S2_S2_17cudnnTensorStructPKT_S
+USDT:2026-11-21 17:27:27 36816:19212 C:\actions-runner\_work\pytorch\pytorch\third_party\kineto\libkineto\src\SyncActiv
+ityProfilerHandler.cpp:39] profiler_start
+USDT:2026-11-21 17:27:27 36816:19212 C:\actions-runner\_work\pytorch\pytorch\third_party\kineto\libkineto\src\SyncActiv
+ityProfilerHandler.cpp:46] profiler_stop
+
+  AMP FP16: сумарний час CUDA-ядер 130.7 мс
+        11.2 мс   8.6%  x49   _ZN2at6native29vectorized_elementwise_kernelILi4EZZZNS0_62_GLOBAL__N__a30504db_23_ActivationSil
+         7.6 мс   5.8%  x55   Memcpy DtoD (Device -> Device)
+         7.6 мс   5.8%  x49   _ZN2at6native29vectorized_elementwise_kernelILi4EZZZNS0_62_GLOBAL__N__a30504db_23_ActivationSil
+         6.8 мс   5.2%  x2    _ZN2at6native51_GLOBAL__N__68a3d168_18_DepthwiseConv2d_cu_2ee6150b32conv_depthwise2d_backward_k
+         6.7 мс   5.1%  x4    _ZN5cudnn21bn_bw_1C11_kernel_newI6__halff6float2Li512ELb1ELi1EEEvT0_S3_S3_S3_17cudnnTensorStruc
+         6.2 мс   4.7%  x50   _ZN2at6native18elementwise_kernelILi128ELi4EZNS0_22gpu_kernel_impl_nocastINS0_13BinaryFunctorIN
+         5.5 мс   4.2%  x6    _ZN5cudnn21bn_bw_1C11_kernel_newI6__halff6float2Li128ELb1ELi1EEEvT0_S3_S3_S3_17cudnnTensorStruc
+         5.2 мс   4.0%  x56   _ZN5cudnn19engines_precompiled16nchwToNhwcKernelI6__halfS2_fLb0ELb1EL21cudnnKernelDataType_t0EE

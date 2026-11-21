@@ -1,0 +1,7 @@
+﻿CPU: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD (4 потоків torch) | GPU: NVIDIA GeForce RTX 2050
+  cpu_fp32_bs1              : медіана   24.74 мс | p95   28.27 мс
+  cpu_end_to_end_jpeg_bs1   : медіана   26.55 мс | p95   30.00 мс
+  gpu_fp32_bs1              : медіана   10.57 мс | p95   17.25 мс
+  gpu_amp_fp16_bs1          : медіана   13.61 мс | p95   20.88 мс
+  gpu_fp32_bs64             : медіана  128.04 мс | p95  128.24 мс | 500 img/s
+  gpu_amp_fp16_bs64         : медіана   68.40 мс | p95   68.45 мс | 936 img/s

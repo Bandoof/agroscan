@@ -1,0 +1,17 @@
+﻿GPU: NVIDIA GeForce RTX 2050 | torch 2.14.1+cu126 | cuDNN 91002
+Defaults before override: cudnn.allow_tf32=True, cuda.matmul.allow_tf32=False
+cudnn.benchmark=True | batch 64 | warmup 10 | steps 20 | repeats 3
+  repeat 1 | FP32 (TF32 off)  | cudnn.allow_tf32=False matmul.allow_tf32=False |    17.9 img/s |   3577.8 ms/step | VRAM  5493 MB
+  repeat 1 | FP32 (TF32 on)   | cudnn.allow_tf32=True  matmul.allow_tf32=True  |    17.0 img/s |   3775.5 ms/step | VRAM  5495 MB
+  repeat 1 | AMP FP16         | cudnn.allow_tf32=False matmul.allow_tf32=False |   239.6 img/s |    267.2 ms/step | VRAM  2852 MB
+  repeat 2 | FP32 (TF32 off)  | cudnn.allow_tf32=False matmul.allow_tf32=False |    15.9 img/s |   4027.9 ms/step | VRAM  5493 MB
+  repeat 2 | FP32 (TF32 on)   | cudnn.allow_tf32=True  matmul.allow_tf32=True  |    15.4 img/s |   4149.4 ms/step | VRAM  5493 MB
+  repeat 2 | AMP FP16         | cudnn.allow_tf32=False matmul.allow_tf32=False |   239.6 img/s |    267.2 ms/step | VRAM  2854 MB
+  repeat 3 | FP32 (TF32 off)  | cudnn.allow_tf32=False matmul.allow_tf32=False |    15.9 img/s |   4033.0 ms/step | VRAM  5493 MB
+  repeat 3 | FP32 (TF32 on)   | cudnn.allow_tf32=True  matmul.allow_tf32=True  |    15.7 img/s |   4074.7 ms/step | VRAM  5493 MB
+  repeat 3 | AMP FP16         | cudnn.allow_tf32=False matmul.allow_tf32=False |   239.9 img/s |    266.7 ms/step | VRAM  2854 MB
+
+Підсумок (медіана з повторів):
+  FP32 (TF32 off) :    15.9 img/s (min 15.9, max 17.9) → ×1.00 відносно FP32 (TF32 off)
+  FP32 (TF32 on)  :    15.7 img/s (min 15.4, max 17.0) → ×0.99 відносно FP32 (TF32 off)
+  AMP FP16        :   239.6 img/s (min 239.6, max 239.9) → ×15.08 відносно FP32 (TF32 off)
