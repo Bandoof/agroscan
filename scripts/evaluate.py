@@ -7,7 +7,7 @@
 - training_curves.png         — loss і accuracy по епохах (з train_log_*.csv);
 - val_loss_check.json         — перевірка, чому val loss > train loss (див. нижче).
 
-Запуск: python scripts/evaluate.py --ckpt models/agroscan_efficientnet_b0.pt
+Запуск: python scripts/evaluate.py --ckpt models/agroscan_v1.pt
 """
 import argparse
 import csv
@@ -85,7 +85,7 @@ def plot_curves(log_path, out_path):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--ckpt", type=Path, default=REPO / "models" / "agroscan_efficientnet_b0.pt")
+    ap.add_argument("--ckpt", type=Path, default=REPO / "models" / "agroscan_v1.pt")
     args = ap.parse_args()
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model, ckpt = load_checkpoint(args.ckpt, device)

@@ -1,0 +1,18 @@
+﻿val закешовано в RAM за 87 с: PV (3504, 3, 224, 224), PD (224, 3, 224, 224), 535 МБ
+v2: train PV 16516 (+фони p=0.5) + PD 892; семплів за епоху 17408, частка PD 0.25 | val PV 3504, PD 224 | logit adj tau=1.0
+апріорний розподіл класів у потоці (для logit adjustment): 0.051 0.032 0.039 0.071 0.061 0.061 0.016 0.079 0.058 0.076 0.058 0.078 0.055 0.048 0.111 0.038 0.066
+[ 1 frozen  ] loss 1.6983 acc 0.5779 | PV val acc 0.7874 F1 0.7518 | PD val acc 0.4107 F1 0.4115 | 139s 125 img/s VRAM 1314 MB  ← best
+[ 2 frozen  ] loss 1.3531 acc 0.7058 | PV val acc 0.8196 F1 0.7848 | PD val acc 0.4241 F1 0.4314 | 89s 196 img/s VRAM 780 MB  ← best
+[ 3 finetune] loss 1.4655 acc 0.6604 | PV val acc 0.9033 F1 0.8652 | PD val acc 0.4509 F1 0.4453 | 147s 119 img/s VRAM 2854 MB  ← best
+[ 4 finetune] loss 0.9453 acc 0.8747 | PV val acc 0.9443 F1 0.9329 | PD val acc 0.5223 F1 0.5337 | 99s 176 img/s VRAM 2851 MB  ← best
+[ 5 finetune] loss 0.8111 acc 0.9310 | PV val acc 0.9555 F1 0.9511 | PD val acc 0.5536 F1 0.5673 | 100s 175 img/s VRAM 2851 MB  ← best
+[ 6 finetune] loss 0.7544 acc 0.9540 | PV val acc 0.9623 F1 0.9616 | PD val acc 0.5759 F1 0.5839 | 99s 177 img/s VRAM 2851 MB  ← best
+[ 7 finetune] loss 0.7104 acc 0.9704 | PV val acc 0.9735 F1 0.9727 | PD val acc 0.5804 F1 0.5938 | 95s 183 img/s VRAM 2851 MB  ← best
+[ 8 finetune] loss 0.6907 acc 0.9750 | PV val acc 0.9743 F1 0.9717 | PD val acc 0.5759 F1 0.5861 | 89s 196 img/s VRAM 2851 MB
+[ 9 finetune] loss 0.6817 acc 0.9780 | PV val acc 0.9769 F1 0.9756 | PD val acc 0.5804 F1 0.5932 | 89s 195 img/s VRAM 2851 MB
+[10 finetune] loss 0.6673 acc 0.9817 | PV val acc 0.9797 F1 0.9799 | PD val acc 0.5893 F1 0.5995 | 87s 200 img/s VRAM 2851 MB  ← best
+[11 finetune] loss 0.6590 acc 0.9838 | PV val acc 0.9806 F1 0.9803 | PD val acc 0.5893 F1 0.6053 | 96s 182 img/s VRAM 2851 MB  ← best
+[12 finetune] loss 0.6561 acc 0.9848 | PV val acc 0.9806 F1 0.9809 | PD val acc 0.5714 F1 0.5815 | 91s 192 img/s VRAM 2851 MB
+[13 finetune] loss 0.6534 acc 0.9840 | PV val acc 0.9812 F1 0.9816 | PD val acc 0.5759 F1 0.5870 | 89s 195 img/s VRAM 2851 MB
+[14 finetune] loss 0.6509 acc 0.9864 | PV val acc 0.9806 F1 0.9809 | PD val acc 0.5893 F1 0.5994 | 88s 198 img/s VRAM 2851 MB
+Готово за 24.9 хв. Найкраща епоха 11, PD val macro-F1 0.6053 → C:\Users\kuril\OneDrive\Документи\Університ\АКС\4 прєкт\agroscan\models\agroscan_v2.pt

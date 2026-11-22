@@ -1,0 +1,32 @@
+﻿  pd_train: 892 фото оброблено
+  pd_val: 224 фото оброблено
+  pd_excluded_dup: 11 фото оброблено
+  pv_train: 16516 фото оброблено
+Еталон (відомі дублікати, cos до виключених копій): [0.915, 0.957, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Макс. cos кожного фото test до навчальних даних v2: перцентилі {50: 0.723, 90: 0.809, 99: 0.961, 100: 0.977}
+Кандидатів (cos >= 0.78 або dHash <= 12): 25
+  cos 0.977 dHash 8 | pd_train | test Potato___Early_blight ↔ Potato___Early_blight
+  cos 0.962 dHash 14 | pd_val   | test Tomato___Septoria_leaf_spot ↔ Tomato___Septoria_leaf_spot
+  cos 0.900 dHash 17 | pd_train | test Tomato___Early_blight ↔ Potato___Early_blight
+  cos 0.858 dHash 14 | pd_train | test Tomato___healthy ↔ Tomato___healthy
+  cos 0.848 dHash 13 | pd_val   | test Apple___healthy ↔ Apple___healthy
+  cos 0.844 dHash 17 | pd_train | test Tomato___Tomato_Yellow_Leaf_Curl_Virus ↔ Tomato___Tomato_Yellow_Leaf_Curl_Virus
+  cos 0.841 dHash 14 | pd_val   | test Tomato___Bacterial_spot ↔ Tomato___Septoria_leaf_spot
+  cos 0.838 dHash 6 | pd_val   | test Apple___healthy ↔ Apple___healthy
+  cos 0.820 dHash 18 | pd_train | test Tomato___healthy ↔ Tomato___Late_blight
+  cos 0.816 dHash 6 | pd_train | test Potato___Early_blight ↔ Potato___Early_blight
+  cos 0.809 dHash 12 | pd_train | test Tomato___Tomato_Yellow_Leaf_Curl_Virus ↔ Tomato___Tomato_Yellow_Leaf_Curl_Virus
+  cos 0.809 dHash 17 | pd_train | test Tomato___Early_blight ↔ Tomato___Early_blight
+  cos 0.808 dHash None | pv_train | test Apple___Apple_scab ↔ Apple___Apple_scab
+  cos 0.804 dHash 20 | pd_train | test Potato___Late_blight ↔ Potato___Early_blight
+  cos 0.796 dHash 5 | pd_train | test Apple___healthy ↔ Apple___healthy
+  cos 0.794 dHash 18 | pd_val   | test Apple___Cedar_apple_rust ↔ Tomato___Bacterial_spot
+  cos 0.792 dHash 13 | pd_val   | test Apple___healthy ↔ Apple___healthy
+  cos 0.790 dHash 18 | pd_train | test Tomato___Bacterial_spot ↔ Tomato___Early_blight
+  cos 0.785 dHash 14 | pd_train | test Tomato___healthy ↔ Tomato___healthy
+  cos 0.782 dHash 18 | pd_val   | test Potato___Early_blight ↔ Potato___Late_blight
+  cos 0.781 dHash None | pv_train | test Tomato___Late_blight ↔ Tomato___Septoria_leaf_spot
+  cos 0.780 dHash 15 | pd_train | test Tomato___Septoria_leaf_spot ↔ Tomato___Early_blight
+  cos 0.743 dHash 10 | pd_train | test Apple___healthy ↔ Apple___healthy
+  cos 0.711 dHash 11 | pd_train | test Tomato___Tomato_mosaic_virus ↔ Potato___Late_blight
+  cos 0.623 dHash 12 | pd_train | test Potato___Late_blight ↔ Potato___Late_blight

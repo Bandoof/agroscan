@@ -1,0 +1,226 @@
+{
+  "results": {
+    "v1": {
+      "epoch": 11,
+      "plantvillage_test": {
+        "n": 3463,
+        "top1": 0.9930695928385793,
+        "top3": 0.9997112330349408,
+        "f1_macro": 0.9923722191920312,
+        "potato_healthy_in_top3_when_not_true": 0.9901248910833576
+      },
+      "plantdoc_test_clean": {
+        "n": 107,
+        "top1": 0.2897196261682243,
+        "top3": 0.5327102803738317,
+        "f1_macro": 0.25259577861387816,
+        "potato_healthy_in_top3_when_not_true": 0.794392523364486
+      },
+      "plantdoc_test_full": {
+        "n": 114,
+        "top1": 0.2982456140350877,
+        "top3": 0.543859649122807,
+        "f1_macro": 0.26958571417991845,
+        "potato_healthy_in_top3_when_not_true": 0.7807017543859649
+      }
+    },
+    "v2_raw": {
+      "epoch": 11,
+      "plantvillage_test": {
+        "n": 3463,
+        "top1": 0.9870054865723361,
+        "top3": 1.0,
+        "f1_macro": 0.9882638964545712,
+        "potato_healthy_in_top3_when_not_true": 0.8687191402846355
+      },
+      "plantdoc_test_clean": {
+        "n": 107,
+        "top1": 0.5794392523364486,
+        "top3": 0.8130841121495327,
+        "f1_macro": 0.5794868701989445,
+        "potato_healthy_in_top3_when_not_true": 0.48598130841121495
+      },
+      "plantdoc_test_full": {
+        "n": 114,
+        "top1": 0.6052631578947368,
+        "top3": 0.8245614035087719,
+        "f1_macro": 0.612636968182802,
+        "potato_healthy_in_top3_when_not_true": 0.5
+      }
+    },
+    "v2": {
+      "epoch": 11,
+      "plantvillage_test": {
+        "n": 3463,
+        "top1": 0.9878717874675137,
+        "top3": 1.0,
+        "f1_macro": 0.9890611964097765,
+        "potato_healthy_in_top3_when_not_true": 0.07057798431600348
+      },
+      "plantdoc_test_clean": {
+        "n": 107,
+        "top1": 0.5887850467289719,
+        "top3": 0.8691588785046729,
+        "f1_macro": 0.5768904470142859,
+        "potato_healthy_in_top3_when_not_true": 0.028037383177570093
+      },
+      "plantdoc_test_full": {
+        "n": 114,
+        "top1": 0.6140350877192983,
+        "top3": 0.8771929824561403,
+        "f1_macro": 0.6104407975925004,
+        "potato_healthy_in_top3_when_not_true": 0.02631578947368421
+      }
+    }
+  },
+  "plantdoc_test_clean_n": 107,
+  "plantdoc_test_excluded_leaks": [
+    "test/Potato leaf early blight/00121_early-blight-alternaria-alternata-leaf-spotting-on-potato-leaf-X91XJE.jpg",
+    "test/Potato leaf early blight/00125_potato-early-blight-alternaria-alternata-lesion-on-a-potato-leaf-a1w1em.jpg",
+    "test/Tomato Early blight leaf/00176_early_blight1-150x150.jpg",
+    "test/Tomato Septoria leaf spot/00183_55830b60a7cf2.image.jpg",
+    "test/Tomato leaf bacterial spot/00197_Tomato_2BBacterial_2BSpot_2Bon_2BLeaves.jpg",
+    "test/Tomato leaf yellow virus/00226_8226402877_9abf151b5b_b.jpg",
+    "test/Tomato leaf yellow virus/00227_fwa2013313115151.jpg"
+  ],
+  "plantdoc_test_clean_bootstrap_ci95": {
+    "top1_v1": [
+      0.205607476635514,
+      0.38317757009345793
+    ],
+    "top1_v2": [
+      0.4953271028037383,
+      0.6822429906542056
+    ],
+    "top1_diff": [
+      0.21495327102803735,
+      0.3925233644859813
+    ],
+    "top3_v1": [
+      0.4392523364485981,
+      0.6261682242990654
+    ],
+    "top3_v2": [
+      0.8035046728971963,
+      0.9345794392523364
+    ],
+    "top3_diff": [
+      0.2429906542056075,
+      0.42056074766355145
+    ],
+    "f1_v1": [
+      0.17247109732419455,
+      0.31450979604112844
+    ],
+    "f1_v2": [
+      0.47453339611623024,
+      0.652267706073484
+    ],
+    "f1_diff": [
+      0.2314030868919272,
+      0.4108439444905202
+    ]
+  },
+  "plantdoc_test_clean_paired": {
+    "only_v2_correct": 34,
+    "only_v1_correct": 2,
+    "mcnemar_exact_p": 1.941225491464138e-08
+  },
+  "plantdoc_test_full_bootstrap_ci95": {
+    "top1_v1": [
+      0.21907894736842104,
+      0.38596491228070173
+    ],
+    "top1_v2": [
+      0.5263157894736842,
+      0.7017543859649122
+    ],
+    "top1_diff": [
+      0.21929824561403516,
+      0.4035087719298246
+    ],
+    "top3_v1": [
+      0.4473684210526316,
+      0.631578947368421
+    ],
+    "top3_v2": [
+      0.8157894736842105,
+      0.9298245614035088
+    ],
+    "top3_diff": [
+      0.24561403508771928,
+      0.42105263157894735
+    ],
+    "f1_v1": [
+      0.18991516783974555,
+      0.33433864468202634
+    ],
+    "f1_v2": [
+      0.5107673245799417,
+      0.6831159928881718
+    ],
+    "f1_diff": [
+      0.2398858614336183,
+      0.4251156955973896
+    ]
+  },
+  "plantdoc_test_full_paired": {
+    "only_v2_correct": 38,
+    "only_v1_correct": 2,
+    "mcnemar_exact_p": 1.4933903003111482e-09
+  },
+  "plantdoc_test_clean_f1_per_class": {
+    "v1": {
+      "Apple___Apple_scab": 0.46153846153846156,
+      "Apple___Cedar_apple_rust": 0.5714285714285714,
+      "Apple___healthy": 0.8235294117647058,
+      "Potato___Early_blight": 0.0,
+      "Potato___Late_blight": 0.25,
+      "Tomato___Bacterial_spot": 0.0,
+      "Tomato___Early_blight": 0.3333333333333333,
+      "Tomato___Late_blight": 0.21428571428571427,
+      "Tomato___Leaf_Mold": 0.0,
+      "Tomato___Septoria_leaf_spot": 0.2962962962962963,
+      "Tomato___Tomato_Yellow_Leaf_Curl_Virus": 0.3333333333333333,
+      "Tomato___Tomato_mosaic_virus": 0.0,
+      "Tomato___healthy": 0.0
+    },
+    "v2_raw": {
+      "Apple___Apple_scab": 0.75,
+      "Apple___Cedar_apple_rust": 0.9,
+      "Apple___healthy": 0.8235294117647058,
+      "Potato___Early_blight": 0.18181818181818182,
+      "Potato___Late_blight": 0.42105263157894735,
+      "Tomato___Bacterial_spot": 0.5333333333333333,
+      "Tomato___Early_blight": 0.47619047619047616,
+      "Tomato___Late_blight": 0.631578947368421,
+      "Tomato___Leaf_Mold": 0.42857142857142855,
+      "Tomato___Septoria_leaf_spot": 0.6666666666666666,
+      "Tomato___Tomato_Yellow_Leaf_Curl_Virus": 0.75,
+      "Tomato___Tomato_mosaic_virus": 0.47058823529411764,
+      "Tomato___healthy": 0.5
+    },
+    "v2": {
+      "Apple___Apple_scab": 0.75,
+      "Apple___Cedar_apple_rust": 0.9,
+      "Apple___healthy": 0.8235294117647058,
+      "Potato___Early_blight": 0.18181818181818182,
+      "Potato___Late_blight": 0.42105263157894735,
+      "Tomato___Bacterial_spot": 0.7058823529411765,
+      "Tomato___Early_blight": 0.5,
+      "Tomato___Late_blight": 0.631578947368421,
+      "Tomato___Leaf_Mold": 0.42857142857142855,
+      "Tomato___Septoria_leaf_spot": 0.7,
+      "Tomato___Tomato_Yellow_Leaf_Curl_Virus": 0.6,
+      "Tomato___Tomato_mosaic_virus": 0.2857142857142857,
+      "Tomato___healthy": 0.5714285714285714
+    }
+  },
+  "bootstrap_resamples": 2000,
+  "plantdoc_test_classes": 13,
+  "plantdoc_label_conflicts": {
+    "train_test_duplicate_pairs": 11,
+    "pairs_with_different_labels": 7,
+    "test_photos_with_conflicting_copy": 6
+  }
+}

@@ -41,7 +41,7 @@ def timeit(fn, warmup, runs, cuda):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--ckpt", type=Path, default=REPO / "models" / "agroscan_efficientnet_b0.pt")
+    ap.add_argument("--ckpt", type=Path, default=REPO / "models" / "agroscan_v1.pt")
     ap.add_argument("--warmup", type=int, default=20)
     ap.add_argument("--runs", type=int, default=100)
     args = ap.parse_args()

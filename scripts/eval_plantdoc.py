@@ -89,7 +89,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--zip", type=Path, required=True)
     ap.add_argument("--out", type=Path, required=True)
-    ap.add_argument("--ckpt", type=Path, default=REPO / "models" / "agroscan_efficientnet_b0.pt")
+    ap.add_argument("--ckpt", type=Path, default=REPO / "models" / "agroscan_v1.pt")
     args = ap.parse_args()
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")

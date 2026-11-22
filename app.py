@@ -15,18 +15,20 @@ REPO = Path(__file__).resolve().parent
 sys.path.insert(0, str(REPO))
 from agroscan.advice import ADVICE, NAME_UA  # noqa: E402
 from agroscan.data import load_meta, short_name  # noqa: E402
-from agroscan.predict import DEFAULT_CKPT, Predictor  # noqa: E402
+from agroscan.predict import Predictor  # noqa: E402
 
-# Поріг обрано за results/confidence_check.json: на PlantVillage test при top-1 ≥ 0.5
-# точність 99.8 % (нижче — 92 %). На польових фото впевненість НЕ гарантує правильність.
+# Поріг «низької впевненості» 0.5 перевірено для кожної моделі окремо:
+#   v1 — results/confidence_check.json (PlantVillage test: 99.8 % точність вище порогу, 92 % нижче);
+#   v2 — results/v2/confidence_check_v2.json (PlantDoc val: 69 % вище порогу, 43 % нижче).
 LOW_CONF = 0.5
+MODELS = {"v2 (рекомендовано)": "v2", "v1 (лише PlantVillage)": "v1"}
 
 st.set_page_config(page_title="AgroScan", page_icon="🌿", layout="centered")
 
 
 @st.cache_resource
-def get_predictor():
-    p = Predictor(DEFAULT_CKPT, device="cpu")  # CPU: ~25 мс на фото, GPU не потрібен
+def get_predictor(version: str):
+    p = Predictor(REPO / "models" / f"agroscan_{version}.pt", device="cpu")  # CPU: ~25–30 мс на фото
     for _ in range(3):  # прогрів, щоб показаний час інференсу не включав «холодний» перший запуск
         p.predict(Image.new("RGB", (256, 256)))
     return p
@@ -55,20 +57,27 @@ def example_paths():
     return [p for p in paths if p.exists()]
 
 
-pred = get_predictor()
-test_m, pd_m = load_json("test_metrics.json"), load_json("plantdoc_metrics.json")
+cmp = load_json("v2/comparison_v1_v2.json")
 
 with st.sidebar:
-    st.header("Про модель")
-    st.write(f"**{pred.arch}**, transfer learning з ImageNet, 17 класів "
-             "(яблуня, картопля, томат), датасет PlantVillage.")
-    if test_m:
-        st.metric("Accuracy, PlantVillage test", f"{test_m['accuracy']:.1%}")
-        st.caption(f"macro-F1 {test_m['f1_macro']:.3f}, n = {test_m['n_test']} лабораторних фото")
-    if pd_m:
-        a = pd_m["all_images"]
-        st.metric("Accuracy, польові фото PlantDoc", f"{a['accuracy']:.1%}")
-        st.caption(f"top-3 {a['top3_accuracy']:.1%}, n = {a['n']}, 14 спільних класів")
+    st.header("Модель")
+    version = MODELS[st.radio("Версія", list(MODELS), index=0,
+                              help="v1 залишено для порівняння: вона навчена лише на лабораторних фото.")]
+    pred = get_predictor(version)
+    if version == "v2":
+        st.write(f"**{pred.arch}**, 17 класів. Навчена на PlantVillage + польових фото PlantDoc (train), "
+                 "з випадковими фонами і збалансованим семплером.")
+    else:
+        st.write(f"**{pred.arch}**, 17 класів. Навчена лише на лабораторних фото PlantVillage.")
+    if cmp:
+        r = cmp["results"][version]
+        pv, pd = r["plantvillage_test"], r["plantdoc_test_clean"]
+        st.metric("Accuracy, PlantVillage test", f"{pv['top1']:.1%}")
+        st.caption(f"macro-F1 {pv['f1_macro']:.3f}, n = {pv['n']} лабораторних фото")
+        st.metric("Accuracy, польові фото PlantDoc test", f"{pd['top1']:.1%}")
+        ci = cmp["plantdoc_test_clean_bootstrap_ci95"][f"top1_{version}"]
+        st.caption(f"95 % інтервал {ci[0]:.0%}–{ci[1]:.0%}, top-3 {pd['top3']:.1%}, n = {pd['n']} "
+                   "(малий набір, 13 класів)")
     st.divider()
     st.caption("Навчальний проєкт з дисципліни «Архітектура комп'ютерних систем», ТНТУ. "
                "Не є засобом діагностики.")
@@ -77,9 +86,11 @@ st.title("🌿 AgroScan")
 st.write("Завантажте фото **одного листка** яблуні, картоплі або томата — модель покаже "
          "три найімовірніші діагнози.")
 
-st.warning("Модель навчена на лабораторних фото (один листок на однорідному тлі). На польових фото "
-           "її точність значно нижча (≈26 % на PlantDoc), а висока впевненість не гарантує "
-           "правильної відповіді. Для рішень щодо обробки зверніться до агронома.", icon="⚠️")
+if cmp:
+    field_acc = cmp["results"][version]["plantdoc_test_clean"]["top1"]
+    st.warning(f"На лабораторних фото модель {version} точна (~99 %), але на польових фото — значно менше "
+               f"(≈{field_acc:.0%} на PlantDoc test). Висока впевненість не гарантує правильної відповіді. "
+               "Для рішень щодо обробки зверніться до агронома.", icon="⚠️")
 
 source = st.radio("Джерело фото", ["Завантажити файл", "Приклад з тестової вибірки"], horizontal=True)
 img, caption = None, None
@@ -109,7 +120,7 @@ if img is not None:
             label = f"{rank}. {NAME_UA[cls]} — {p:.1%}"
             st.markdown(f"**{label}**" if rank == 1 else label)
             st.progress(min(max(p, 0.0), 1.0))
-        st.caption(f"Час інференсу на CPU: {ms:.0f} мс")
+        st.caption(f"Модель {version} · час інференсу на CPU: {ms:.0f} мс")
 
     best_cls, best_p = top3[0]
     if best_p < LOW_CONF:

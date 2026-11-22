@@ -1,0 +1,70 @@
+{
+  "method": "EfficientNet-B0 (ImageNet) cos >= 0.78 або dHash <= 12, потім ручний перегляд кожної пари",
+  "n_candidates_reviewed": 25,
+  "n_leaked_test_photos": 7,
+  "leaked": [
+    {
+      "test": "test/Potato leaf early blight/00121_early-blight-alternaria-alternata-leaf-spotting-on-potato-leaf-X91XJE.jpg",
+      "test_label": "Potato___Early_blight",
+      "train_pool": "pd_train",
+      "train_match": "train/Potato leaf early blight/01307_early-blight-alternaria-alternata-leaf-spotting-on-potato-leaf-ACG5WF.jpg",
+      "train_label": "Potato___Early_blight",
+      "cos": 0.9770002365112305,
+      "note": "те саме стокове фото (alamy), інший водяний знак"
+    },
+    {
+      "test": "test/Tomato Septoria leaf spot/00183_55830b60a7cf2.image.jpg",
+      "test_label": "Tomato___Septoria_leaf_spot",
+      "train_pool": "pd_val",
+      "train_match": "train/Tomato Septoria leaf spot/02038_tomato-plant-is-infected-with-septoria-leaf-spot-1.jpg",
+      "train_label": "Tomato___Septoria_leaf_spot",
+      "cos": 0.9623069167137146,
+      "note": "те саме фото, інший кроп і масштаб"
+    },
+    {
+      "test": "test/Tomato Early blight leaf/00176_early_blight1-150x150.jpg",
+      "test_label": "Tomato___Early_blight",
+      "train_pool": "pd_train",
+      "train_match": "train/Potato leaf early blight/01315_early_blight1.jpg",
+      "train_label": "Potato___Early_blight",
+      "cos": 0.9002032279968262,
+      "note": "test — кроп навчального фото; мітки різні (Tomato EB vs Potato EB)"
+    },
+    {
+      "test": "test/Tomato leaf yellow virus/00226_8226402877_9abf151b5b_b.jpg",
+      "test_label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "train_pool": "pd_train",
+      "train_match": "train/Tomato leaf yellow virus/02353_s-prasanth-kumar-young-scientist-awarded-presentation-2-728.jpg",
+      "train_label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "cos": 0.8440271019935608,
+      "note": "те саме фото, інший кроп"
+    },
+    {
+      "test": "test/Tomato leaf bacterial spot/00197_Tomato_2BBacterial_2BSpot_2Bon_2BLeaves.jpg",
+      "test_label": "Tomato___Bacterial_spot",
+      "train_pool": "pd_val",
+      "train_match": "train/Tomato Septoria leaf spot/01960_Leaf_20spot.jpg",
+      "train_label": "Tomato___Septoria_leaf_spot",
+      "cos": 0.8411285877227783,
+      "note": "те саме фото (рука з тим самим листком); мітки різні (Bacterial spot vs Septoria)"
+    },
+    {
+      "test": "test/Potato leaf early blight/00125_potato-early-blight-alternaria-alternata-lesion-on-a-potato-leaf-a1w1em.jpg",
+      "test_label": "Potato___Early_blight",
+      "train_pool": "pd_train",
+      "train_match": "train/Potato leaf early blight/01336_potato-early-blight-alternaria-alternata-lesion-on-a-potato-leaf-X96EFD.jpg",
+      "train_label": "Potato___Early_blight",
+      "cos": 0.8162121772766113,
+      "note": "те саме стокове фото (alamy), інший кроп і водяний знак"
+    },
+    {
+      "test": "test/Tomato leaf yellow virus/00227_fwa2013313115151.jpg",
+      "test_label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "train_pool": "pd_train",
+      "train_match": "train/Tomato leaf yellow virus/02310_1342017-162221-44540.jpg",
+      "train_label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "cos": 0.8091336488723755,
+      "note": "test — кроп верхньої частини навчального фото"
+    }
+  ]
+}

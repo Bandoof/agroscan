@@ -19,5 +19,6 @@
     "Tomato___healthy"
   ],
   "seed": 42,
-  "images_root": "C:\\Users\\kuril\\datasets\\plantvillage\\agroscan\\images"
+  "images_root": "C:\\Users\\kuril\\datasets\\plantvillage\\agroscan\\images",
+  "segmented_root": "C:\\Users\\kuril\\datasets\\plantvillage\\agroscan\\segmented"
 }

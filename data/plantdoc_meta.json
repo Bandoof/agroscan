@@ -1,0 +1,6 @@
+{
+  "images_root": "C:\\Users\\kuril\\datasets\\plantdoc\\images",
+  "seed": 42,
+  "val_fraction": 0.2,
+  "hamming_threshold": 4
+}

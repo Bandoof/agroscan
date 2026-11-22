@@ -1,0 +1,143 @@
+{
+  "hamming_threshold": 4,
+  "n_images": 1241,
+  "splits": {
+    "pd_train": 892,
+    "pd_val": 224,
+    "pd_excluded_dup": 11,
+    "pd_test": 114
+  },
+  "duplicate_pairs_exact": 8,
+  "duplicate_pairs_near": 50,
+  "train_test_duplicate_pairs": 11,
+  "test_images_with_train_duplicate": 10,
+  "per_class": {
+    "Apple___Apple_scab": {
+      "pd_val": 17,
+      "pd_train": 66,
+      "pd_test": 10
+    },
+    "Apple___Cedar_apple_rust": {
+      "pd_train": 63,
+      "pd_val": 16,
+      "pd_test": 10
+    },
+    "Apple___healthy": {
+      "pd_train": 66,
+      "pd_val": 16,
+      "pd_test": 9
+    },
+    "Potato___Early_blight": {
+      "pd_val": 22,
+      "pd_train": 84,
+      "pd_excluded_dup": 3,
+      "pd_test": 8
+    },
+    "Potato___Late_blight": {
+      "pd_train": 77,
+      "pd_val": 19,
+      "pd_excluded_dup": 1,
+      "pd_test": 8
+    },
+    "Tomato___Bacterial_spot": {
+      "pd_train": 80,
+      "pd_val": 20,
+      "pd_excluded_dup": 1,
+      "pd_test": 9
+    },
+    "Tomato___Early_blight": {
+      "pd_train": 62,
+      "pd_val": 16,
+      "pd_excluded_dup": 1,
+      "pd_test": 9
+    },
+    "Tomato___Late_blight": {
+      "pd_train": 79,
+      "pd_val": 20,
+      "pd_excluded_dup": 2,
+      "pd_test": 10
+    },
+    "Tomato___Leaf_Mold": {
+      "pd_train": 68,
+      "pd_val": 17,
+      "pd_test": 6
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "pd_val": 27,
+      "pd_train": 111,
+      "pd_excluded_dup": 2,
+      "pd_test": 11
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+      "pd_train": 2
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+      "pd_val": 14,
+      "pd_train": 55,
+      "pd_excluded_dup": 1,
+      "pd_test": 6
+    },
+    "Tomato___Tomato_mosaic_virus": {
+      "pd_train": 35,
+      "pd_val": 9,
+      "pd_test": 10
+    },
+    "Tomato___healthy": {
+      "pd_train": 44,
+      "pd_val": 11,
+      "pd_test": 8
+    }
+  },
+  "cross_examples": [
+    [
+      "train/Potato leaf early blight/01252_1421_0.jpeg_itok_FMtmgePj.jpg",
+      "test/Potato leaf late blight/00128_1421_0.jpeg_itok_FMtmgePj.jpg",
+      0
+    ],
+    [
+      "train/Potato leaf early blight/01269_5816740026_d42ef24413_Phytophthora-Infestans.jpg",
+      "test/Potato leaf late blight/00131_5816740026_d42ef24413_Phytophthora-Infestans.jpg",
+      0
+    ],
+    [
+      "train/Potato leaf early blight/01324_irish-blight-symptoms-on-potato-leaves-atmf8b.jpg",
+      "test/Potato leaf late blight/00134_irish-blight-symptoms-on-potato-leaves-atmf8b.jpg",
+      0
+    ],
+    [
+      "train/Potato leaf late blight/01404_backus-056-potato-blight.jpg",
+      "test/Potato leaf early blight/00120_backus-056-potato-blight.jpg",
+      0
+    ],
+    [
+      "train/Tomato leaf yellow virus/02373_tylcv-seminar-1-638.jpg",
+      "test/Tomato leaf yellow virus/00229_tylcv-seminar-1-638.jpg",
+      0
+    ],
+    [
+      "train/Tomato Septoria leaf spot/01997_early-blight-septoria-ls-fig-3.jpg",
+      "test/Tomato Septoria leaf spot/00189_early-blight-septoria-ls-fig-3.jpg",
+      0
+    ],
+    [
+      "train/Tomato Septoria leaf spot/02048_tomato_V8.jpg",
+      "test/Tomato leaf bacterial spot/00199_tomato_V8.jpg",
+      0
+    ],
+    [
+      "train/Tomato Early blight leaf/01897_earlyblightpotato.jpg",
+      "test/Potato leaf early blight/00123_earlyblightpotato.jpg",
+      0
+    ],
+    [
+      "train/Tomato leaf bacterial spot/02128_bacterial-canker3x2400-2ia1kgd.jpg",
+      "test/Tomato leaf bacterial spot/00193_07.17.18-Common_Tomato_Diseases_Canker-258x300.jpg",
+      0
+    ],
+    [
+      "train/Tomato leaf late blight/02216_late_blight1.jpg",
+      "test/Tomato leaf late blight/00203_18c.jpg",
+      0
+    ]
+  ]
+}

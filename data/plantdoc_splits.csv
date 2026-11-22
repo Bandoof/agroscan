@@ -1,0 +1,1242 @@
+path,pd_class,label,split,group
+train/Apple leaf/00354_20130519yellowingappleleaves.jpg,Apple leaf,Apple___healthy,pd_train,0
+train/Apple leaf/00355_2017-09-23-07-48-04.jpg,Apple leaf,Apple___healthy,pd_train,1
+train/Apple leaf/00356_4633813-sweet-apple-with-leaf.jpg,Apple leaf,Apple___healthy,pd_train,78
+train/Apple leaf/00357_Apple-Leaves-Diabetes.jpg,Apple leaf,Apple___healthy,pd_train,3
+train/Apple leaf/00358_AppleLeavesInRain.jpg,Apple leaf,Apple___healthy,pd_train,4
+train/Apple leaf/00359_Apple_tree_leaf_J1.jpg,Apple leaf,Apple___healthy,pd_train,5
+train/Apple leaf/00360_CRABAPPLE2_leaves.jpg,Apple leaf,Apple___healthy,pd_val,6
+train/Apple leaf/00361_CRABAPPLE3_leaves.jpg,Apple leaf,Apple___healthy,pd_val,7
+train/Apple leaf/00362_CRABAPPLE_leaves.jpg,Apple leaf,Apple___healthy,pd_val,8
+train/Apple leaf/00363_Crab-Apple-_28Malus-Sylvestris_29-Leaf.jpg,Apple leaf,Apple___healthy,pd_train,9
+train/Apple leaf/00364_Dwarf-Apple-Pink-Lady-2545.jpeg.jpg,Apple leaf,Apple___healthy,pd_train,10
+train/Apple leaf/00365_June_2B2010_2B022.JPG.jpg,Apple leaf,Apple___healthy,pd_train,11
+train/Apple leaf/00366_Malus_sylvestris_-_Crab_Apple_04.jpg,Apple leaf,Apple___healthy,pd_train,12
+train/Apple leaf/00367_apple-tree-branch-blossom-plant-fruit-berry-leaf-flower-food-green-produce-evergreen-flora-sad-shrub-apples-branch-with-apples-flowering-plant-rose-fa,Apple leaf,Apple___healthy,pd_train,13
+train/Apple leaf/00368_apple-tree-branch-green-leaves-fresh-isolated-white-background-33032922.jpg,Apple leaf,Apple___healthy,pd_train,14
+train/Apple leaf/00369_apple-tree-branch-green-leaves-fresh-isolated-white-background-33032924.jpg,Apple leaf,Apple___healthy,pd_val,15
+train/Apple leaf/00370_apple-tree-branch-plant-fruit-leaf-flower-food-green-produce-flora-immature-apple-tree-flowering-plant-wild-apple-tree-apple-gear-land-plant-606389.jp,Apple leaf,Apple___healthy,pd_train,16
+train/Apple leaf/00371_apple-tree-leaf-curl-apple-tree-leaf-curl-aphids-apple-tree-leaves-curling-too-much-water.jpg,Apple leaf,Apple___healthy,pd_train,17
+train/Apple leaf/00372_apple-tree-leaves.jpg,Apple leaf,Apple___healthy,pd_train,18
+train/Apple leaf/00373_appleleaf_trial_007.JPG.jpg,Apple leaf,Apple___healthy,pd_train,19
+train/Apple leaf/00374_apples_silver-leaf_04_zoom.jpg,Apple leaf,Apple___healthy,pd_train,20
+train/Apple leaf/00375_autumn-red-apple-leaves.jpg,Apple leaf,Apple___healthy,pd_train,21
+train/Apple leaf/00376_bright-red-crab-apple-fruit-malus-john-downie-on-the-tree-in-late-KH3WRX.jpg,Apple leaf,Apple___healthy,pd_train,22
+train/Apple leaf/00377_closeup-red-apple-fruit-leaf-isolated-white-background-57605895.jpg,Apple leaf,Apple___healthy,pd_train,23
+train/Apple leaf/00378_crab_apple_03_leaves.jpg,Apple leaf,Apple___healthy,pd_val,24
+train/Apple leaf/00379_depositphotos_27383223-stock-photo-apple-leaves.jpg,Apple leaf,Apple___healthy,pd_train,25
+train/Apple leaf/00380_depositphotos_30057617-Green-leaf-of-apple-tree.jpg,Apple leaf,Apple___healthy,pd_train,26
+train/Apple leaf/00381_depositphotos_4505396-Green-apple-leaf.jpg,Apple leaf,Apple___healthy,pd_train,27
+train/Apple leaf/00382_depositphotos_45748597-stock-photo-ripe-apple-with-leaf.jpg,Apple leaf,Apple___healthy,pd_train,28
+train/Apple leaf/00383_depositphotos_55202179-stock-photo-green-apple-with-leaf-and.jpg,Apple leaf,Apple___healthy,pd_train,41
+train/Apple leaf/00384_depositphotos_56066889-stock-photo-apple-with-leaf.jpg,Apple leaf,Apple___healthy,pd_train,76
+train/Apple leaf/00385_depositphotos_6657863-stock-photo-single-red-apple-with-leaf.jpg,Apple leaf,Apple___healthy,pd_val,31
+train/Apple leaf/00386_flat_1000x1000_075_f.u2.jpg,Apple leaf,Apple___healthy,pd_train,57
+train/Apple leaf/00387_fresh-wet-green-apple-leaf-water-drops-isolated-white-background-31353097.jpg,Apple leaf,Apple___healthy,pd_val,33
+train/Apple leaf/00388_fruit_apple_apple-tree_wallpaper_EA60026.jpg,Apple leaf,Apple___healthy,pd_train,34
+train/Apple leaf/00389_green-apple-fruits-leaf-16266077.jpg,Apple leaf,Apple___healthy,pd_train,35
+train/Apple leaf/00390_green-apple-fruits-leaf-25050127.jpg,Apple leaf,Apple___healthy,pd_val,36
+train/Apple leaf/00391_green-apple-leaf-26110796.jpg,Apple leaf,Apple___healthy,pd_train,37
+train/Apple leaf/00392_green-apple-leaf-cut-white-ripe-background-clipping-path-42422046.jpg,Apple leaf,Apple___healthy,pd_train,38
+train/Apple leaf/00393_green-apple-leaf-slice-isolated-white-ripe-background-clipping-path-42352971.jpg,Apple leaf,Apple___healthy,pd_train,39
+train/Apple leaf/00394_green-apple-leaf-slice-isolated-white-ripe-background-clipping-path-44598638.jpg,Apple leaf,Apple___healthy,pd_val,40
+train/Apple leaf/00395_green-apple-leaf-slice-isolated-white-ripe-background-clipping-path-45471482.jpg,Apple leaf,Apple___healthy,pd_train,41
+train/Apple leaf/00396_green-apple-leaf-white-background-33503979.jpg,Apple leaf,Apple___healthy,pd_train,42
+train/Apple leaf/00397_green-leaf-apple-tree-14300049.jpg,Apple leaf,Apple___healthy,pd_train,47
+train/Apple leaf/00398_green-leaf-apple-tree-isolated-white-background-33032695.jpg,Apple leaf,Apple___healthy,pd_val,44
+train/Apple leaf/00399_green-leaf-picture-id177130309_b_1_k_6_m_177130309_s_612x612_w_0_h_VP3U0AM5j0fvQqOwuI5f7cmb2Ji88mVep0eoXQaJRfs_.jpg,Apple leaf,Apple___healthy,pd_train,57
+train/Apple leaf/00400_grow-an-apple-tree-from-seed-in-singapore-img5.jpg,Apple leaf,Apple___healthy,pd_train,46
+train/Apple leaf/00401_leaf-apple-tree-one-green-isolated-41556482.jpg,Apple leaf,Apple___healthy,pd_train,47
+train/Apple leaf/00402_leaves-isolated-on-white-background-picture-id537925565_k_6_m_537925565_s_612x612_w_0_h_Ogzc4YHTI4i4q9aiTIG6Zq2sAMv6xTKiDlCmYANlzK8_.jpg,Apple leaf,Apple___healthy,pd_train,48
+train/Apple leaf/00403_malus-floribunda-le-amoro2-a.jpg,Apple leaf,Apple___healthy,pd_train,49
+train/Apple leaf/00404_red-apple-green-leaf-isolated-white-background-57496220.jpg,Apple leaf,Apple___healthy,pd_val,50
+train/Apple leaf/00405_red-apple-leaf-slice-white-background-29914331.jpg,Apple leaf,Apple___healthy,pd_train,51
+train/Apple leaf/00406_red-apple-leaves-309078.jpg,Apple leaf,Apple___healthy,pd_train,52
+train/Apple leaf/00407_red-apple-one-leaf-13226302.jpg,Apple leaf,Apple___healthy,pd_val,53
+train/Apple leaf/00408_ripe-red-apple-with-green-leaf-isolated-on-white-picture-id184640296_s_612x612.jpg,Apple leaf,Apple___healthy,pd_train,54
+train/Apple leaf/00409_ripe-red-apple-with-leaf-picture-id117485645_b_1_k_6_m_117485645_s_612x612_w_0_h_Ii96HYzF-2E5ky-IcXbVhvEFvU28o0rlkwagb7T6LhY_.jpg,Apple leaf,Apple___healthy,pd_val,55
+train/Apple leaf/00410_shiny-red-apple-green-leaf-isolated-white-background-56202743.jpg,Apple leaf,Apple___healthy,pd_train,56
+train/Apple leaf/00411_stock-photo-apple-leaf-isolated-on-white-background-287560226.jpg,Apple leaf,Apple___healthy,pd_train,57
+train/Apple leaf/00412_stock-photo-apple-leaf-set-isolated-on-white-background-300957002.jpg,Apple leaf,Apple___healthy,pd_train,58
+train/Apple leaf/00413_stock-photo-apple-leaves-collection-isolated-on-white-background-373945045.jpg,Apple leaf,Apple___healthy,pd_train,59
+train/Apple leaf/00414_stock-photo-apple-leaves-isolated-on-a-white-background-leaf-from-an-apple-tree-cut-from-background-520909219.jpg,Apple leaf,Apple___healthy,pd_train,60
+train/Apple leaf/00415_stock-photo-apple-leaves-isolated-on-the-white-background-729570907.jpg,Apple leaf,Apple___healthy,pd_train,61
+train/Apple leaf/00416_stock-photo-apple-leaves-isolated-on-white-background-232913425.jpg,Apple leaf,Apple___healthy,pd_train,62
+train/Apple leaf/00417_stock-photo-apple-leaves-isolated-on-white-background-295979933.jpg,Apple leaf,Apple___healthy,pd_train,63
+train/Apple leaf/00418_stock-photo-apple-leaves-isolated-on-white-background-326520134.jpg,Apple leaf,Apple___healthy,pd_train,64
+train/Apple leaf/00419_stock-photo-apple-leaves-isolated-on-white-collection-197880929.jpg,Apple leaf,Apple___healthy,pd_train,65
+train/Apple leaf/00420_stock-photo-apple-leaves-set-isolated-on-white-271652246.jpg,Apple leaf,Apple___healthy,pd_val,66
+train/Apple leaf/00421_stock-photo-apple-tree-leaf-isolated-on-a-white-622503302.jpg,Apple leaf,Apple___healthy,pd_train,67
+train/Apple leaf/00422_stock-photo-fresh-apple-leaf-isolated-on-white-collection-407823346.jpg,Apple leaf,Apple___healthy,pd_train,68
+train/Apple leaf/00423_stock-photo-green-apple-leaf-clipping-path-258728936.jpg,Apple leaf,Apple___healthy,pd_train,69
+train/Apple leaf/00424_stock-photo-green-apple-leaf-isolated-on-white-with-clipping-path-195130079.jpg,Apple leaf,Apple___healthy,pd_train,70
+train/Apple leaf/00425_stock-photo-green-apple-leaves-on-the-white-background-796491496.jpg,Apple leaf,Apple___healthy,pd_train,71
+train/Apple leaf/00426_stock-photo-isolated-apple-green-granny-smith-apple-with-leaf-isolated-on-white-background-60343762.jpg,Apple leaf,Apple___healthy,pd_train,57
+train/Apple leaf/00427_stock-photo-one-green-leaf-of-apple-tree-isolated-on-white-background-close-up-studio-photography-102522179.jpg,Apple leaf,Apple___healthy,pd_val,73
+train/Apple leaf/00428_stock-photo-red-apple-with-green-leaf-isolated-on-white-background-with-clipping-path-327512429.jpg,Apple leaf,Apple___healthy,pd_train,74
+train/Apple leaf/00429_stock-photo-red-apple-with-leaf-124592107.jpg,Apple leaf,Apple___healthy,pd_val,75
+train/Apple leaf/00430_stock-photo-red-apple-with-leaf-138430751.jpg,Apple leaf,Apple___healthy,pd_train,76
+train/Apple leaf/00431_stock-photo-red-apple-with-leaves-isolated-on-white-99003845.jpg,Apple leaf,Apple___healthy,pd_train,77
+train/Apple leaf/00432_stock-photo-sweet-apple-with-leaf-111143150.jpg,Apple leaf,Apple___healthy,pd_train,78
+train/Apple leaf/00433_stock-photo-whole-ripe-green-apple-with-apple-leaf-and-green-apple-half-isolated-on-white-background-with-566226067.jpg,Apple leaf,Apple___healthy,pd_train,79
+train/Apple leaf/00434_yellow-apple-leaves-isolated-10868989.jpg,Apple leaf,Apple___healthy,pd_train,80
+train/Apple leaf/00435_yellow-ripe-apple-leaf-27092797.jpg,Apple leaf,Apple___healthy,pd_train,81
+train/Apple rust leaf/00437_1-Cedar-apple-rust-infections-and-rust-induced-leafspot-on-Ginger-Gold-4-Jun-08-2d4hi2k.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,82
+train/Apple rust leaf/00438_1-Severe-cedar-apple-rust-on-Ginger-Gold-1-Jul-09-1n5iktz.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,83
+train/Apple rust leaf/00439_2-Rust-induced-leaf-scorch-1fpa6c3.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,84
+train/Apple rust leaf/00440_20130610_110525.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,85
+train/Apple rust leaf/00441_20130802_111648.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,86
+train/Apple rust leaf/00442_20170524_195105-1k1eu8b.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,87
+train/Apple rust leaf/00443_3-Rust-induced-leaf-scorch-1emjjbl.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,88
+train/Apple rust leaf/00444_601fbee78c62e32a76e768a92ee40193.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,89
+train/Apple rust leaf/00445_Apple_RustSpots2.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,90
+train/Apple rust leaf/00446_Apple_Scab164.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,91
+train/Apple rust leaf/00447_B2750027-Cedar-apple_rust-SPL.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,92
+train/Apple rust leaf/00448_C0258424-Cedar_apple_rust_on_a_leaf-SPL.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,93
+train/Apple rust leaf/00449_C11.11.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,94
+train/Apple rust leaf/00450_CAR_2Bzestar.JPG.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,95
+train/Apple rust leaf/00451_CAR1.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,96
+train/Apple rust leaf/00452_CAR4.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,97
+train/Apple rust leaf/00453_Cedar_Apple_rust_on_Crab_apple_leaf.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,98
+train/Apple rust leaf/00454_Cedar_apple_rust.JPG.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,99
+train/Apple rust leaf/00455_Cedar-Apple-Rust-aecia-on-leaf-pic-by-NC-State.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,100
+train/Apple rust leaf/00456_CedarApple_Rust168.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,101
+train/Apple rust leaf/00457_Cedar_apple_rust_on_crab_apple_leaf_showing_underside_cup.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,102
+train/Apple rust leaf/00458_Cedar_apple_rust_on_crab_apple_leaf_upper_surface.JPG.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,103
+train/Apple rust leaf/00459_DAxpYpoWAAQxi1f.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,104
+train/Apple rust leaf/00460_DIsease-Pest-Management.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,105
+train/Apple rust leaf/00461_Fig-17-Apple-rust-on-lower-surface-on-leaf-at-extreme.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,106
+train/Apple rust leaf/00462_Figure-1.-Typical-cedar-apple-rust-lesions-on-upper-surface-of-apple-leaf.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,107
+train/Apple rust leaf/00463_Figure-3.-Aecial-projections-on-the-underside-of-an-apple-leaf-with-cedar-apple-rust-disease-.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,108
+train/Apple rust leaf/00464_LIFH3.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,109
+train/Apple rust leaf/00465_P1020430.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,110
+train/Apple rust leaf/00466_P7290482.JPG.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,111
+train/Apple rust leaf/00467_PLPATH-FRU-02-cedar-apple-rust-figure-1.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,112
+train/Apple rust leaf/00468_Rust_20on_20Brandywine_ADJ.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,113
+train/Apple rust leaf/00469_Rust--CA.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,114
+train/Apple rust leaf/00470_a82e389f8b5da4758a747c32ef8af6f9--rust-apples.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,115
+train/Apple rust leaf/00471_aecia-on-apple-e1368285975597.jpeg.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,116
+train/Apple rust leaf/00472_apple_rust_001.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,117
+train/Apple rust leaf/00473_apple-leaf-rust-and-cedar-apple-roestella-pirata-report-of-the-of-picture-id629456105_s_612x612.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,118
+train/Apple rust leaf/00474_apple-rust-disease_10_845384767.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,119
+train/Apple rust leaf/00475_apple-rust.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,120
+train/Apple rust leaf/00476_apple_F14b.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,121
+train/Apple rust leaf/00477_apple_leaf.JPG.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,122
+train/Apple rust leaf/00478_applerust-500x383.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,123
+train/Apple rust leaf/00479_apples_black-rot_01_zoom.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,124
+train/Apple rust leaf/00480_apples_rusts_apple-scab.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,125
+train/Apple rust leaf/00481_apples_rusts_frogs-eye.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,126
+train/Apple rust leaf/00482_apples_rusts-cedar-apple_01_zoom.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,127
+train/Apple rust leaf/00483_buckinghamshire-speen-garden-cedar-apple-rust-on-apple-underside-of-F5D3RD.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,128
+train/Apple rust leaf/00484_buckinghamshire-speen-garden-detail-cedar-apple-rust-on-apple-underside-f5d3r7.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,129
+train/Apple rust leaf/00485_car-apple1.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,130
+train/Apple rust leaf/00486_car-apple9.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,131
+train/Apple rust leaf/00487_car.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,132
+train/Apple rust leaf/00488_car1.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,133
+train/Apple rust leaf/00489_car2.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,134
+train/Apple rust leaf/00490_cd6bfd6bfbcac781bd496bf13845fb0f.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,135
+train/Apple rust leaf/00491_cedapp04_lg.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,136
+train/Apple rust leaf/00492_cedar_20apple_20rust_20lower_20leaf_20haw_20S_202_20ne_20OH_20RA_209-2-16.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,137
+train/Apple rust leaf/00493_cedar_20apple_20rust_20upper_20leaf_20surface_20S_20ne_20OH_20RA_209-2-16.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,138
+train/Apple rust leaf/00494_cedar-apple-rest-225x300.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,139
+train/Apple rust leaf/00495_cedar-apple-rust-gymnosporangium-juniperi-pustules-on-apple-leaf-lower-c99tfp.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,140
+train/Apple rust leaf/00496_cedar-apple-rust-gymnosporangium-juniperi-pustules-on-apple-leaf-lower-surface-X12A9H.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,141
+train/Apple rust leaf/00497_cedar-apple-rust.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,142
+train/Apple rust leaf/00498_cedar-apple-rust_fig-1.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,143
+train/Apple rust leaf/00499_cedar-apple-rust_fig-2.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,144
+train/Apple rust leaf/00500_cedar-apple-rust_fig-3.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,145
+train/Apple rust leaf/00501_cedar_apple_rust_3.JPG_1362772840.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,146
+train/Apple rust leaf/00502_cedar_apple_rust_leaf.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,147
+train/Apple rust leaf/00503_cedar_apple_rust_on_jonagold_2.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,148
+train/Apple rust leaf/00504_cedar_apple_rust_on_jonagold_3.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,149
+train/Apple rust leaf/00505_crab-apple-tree-leaves.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,150
+train/Apple rust leaf/00506_frog-eye-leaf-spot-on-crabapple-grabowski.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,151
+train/Apple rust leaf/00507_image1_14.jpeg.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,152
+train/Apple rust leaf/00508_nPP7P.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,153
+train/Apple rust leaf/00509_pix053.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,154
+train/Apple rust leaf/00510_quince5_600px.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,155
+train/Apple rust leaf/00511_rust-0450.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,156
+train/Apple rust leaf/00512_stock-photo-apple-leaf-damaged-by-apple-rust-mite-a-common-arthropod-in-european-apple-orchards-galls-698959369.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,157
+train/Apple rust leaf/00513_thumb-20130802_111648.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,158
+train/Apple rust leaf/00514_thumb-20130802_112143.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_train,159
+train/Apple rust leaf/00515_tree-problems-cedar-apple-rust-apple-leaf-475x350.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_val,160
+train/Apple Scab Leaf/00270_01Apple-scab-2-Venturia-inaequalis.ashx_w_600_h_408_bc_ffffff.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,161
+train/Apple Scab Leaf/00271_11NovMW_W4-A_4b.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,162
+train/Apple Scab Leaf/00272_12-20_apple_scab1.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,163
+train/Apple Scab Leaf/00273_500_F_125294801_k0A2teQwKxZfTV1pcaerZFf9Th04F04q.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,164
+train/Apple Scab Leaf/00274_6A642AA3-1DB1-4413-B0B6-7FBB68A5904A_original.jpeg_1528657579.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,165
+train/Apple Scab Leaf/00275_Apple_20scab_20-_20early_20infection_20on_20leaves.JPG.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,166
+train/Apple Scab Leaf/00276_Apple_20scab_20-_20late_20season_20infection_20on_20petiole_20and_20leaf_20underside.JPG.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,167
+train/Apple Scab Leaf/00277_Apple-Scab-Mulrooney.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,168
+train/Apple Scab Leaf/00278_Apple-Scab-image-01.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,169
+train/Apple Scab Leaf/00279_Apple-Scab-image-02.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,170
+train/Apple Scab Leaf/00280_Apple-Scab.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,171
+train/Apple Scab Leaf/00281_Apple-Scab1.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,211
+train/Apple Scab Leaf/00282_Apple-Scab_1_1.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,173
+train/Apple Scab Leaf/00283_Apple-scab-on-crab-apple.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,174
+train/Apple Scab Leaf/00284_AppleScab.JPG.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,175
+train/Apple Scab Leaf/00285_AppleScab02.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,176
+train/Apple Scab Leaf/00286_AppleScab03.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,177
+train/Apple Scab Leaf/00287_AppleScab14.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,178
+train/Apple Scab Leaf/00288_Apple_Scab163.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,179
+train/Apple Scab Leaf/00289_Apple_scab.jpg_t_1473441220256_width_300_height_200_name_Apple_scab.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,180
+train/Apple Scab Leaf/00290_Apple_scab_symptoms_on_leaf.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,181
+train/Apple Scab Leaf/00291_DSC00005.JPG.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,182
+train/Apple Scab Leaf/00292_DSCF1248-1gz1wpc.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,183
+train/Apple Scab Leaf/00293_IMG_3166_1500x1500_253E.JPG_1473520197.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,184
+train/Apple Scab Leaf/00294_IMG_3455-xjgwni-1024x1024.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,185
+train/Apple Scab Leaf/00295_Malus-Scab-disease-225x300.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,186
+train/Apple Scab Leaf/00296_Scab_close-up5846.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,187
+train/Apple Scab Leaf/00297_acfsca026527.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,188
+train/Apple Scab Leaf/00298_apple_20scab_20MF821.JPG.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,189
+train/Apple Scab Leaf/00299_apple-scab-disease-tree-fungus-906x391.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,190
+train/Apple Scab Leaf/00300_apple-scab-disease.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,191
+train/Apple Scab Leaf/00301_apple-scab-leaf-big.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,192
+train/Apple Scab Leaf/00302_apple-scab-obst-krankheit-m7akxy.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,193
+train/Apple Scab Leaf/00303_apple-scab-venturia-inaequalis-early-leaf-infection-and-mycelium-AW0TTX.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,194
+train/Apple Scab Leaf/00304_apple-scab-venturia-inaequalis-early-leaf-infection-and-mycelium-bxbd0k.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,195
+train/Apple Scab Leaf/00305_apple-scab-venturia-inaequalis-early-leaf-infection-and-mycelium-bxbd23.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,196
+train/Apple Scab Leaf/00306_apple-scab-venturia-inaequalis-germinated-from-a-spore-shower-on-an-apple-leaf-X31BGG.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,197
+train/Apple Scab Leaf/00307_apple-scab-venturia-inaequalis-germinated-from-a-spore-shower-on-an-aw08hw.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,198
+train/Apple Scab Leaf/00308_apple-scab-venturia-inaequalis-leaf-symptoms-on-tree-dark-fungal-pustules-aceg6b.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,199
+train/Apple Scab Leaf/00309_apple-scab-venturia-inaequalis-lesions-mycelium-on-leaves-a8h9nb.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,200
+train/Apple Scab Leaf/00310_apple-scab_figure-2.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,201
+train/Apple Scab Leaf/00311_apple_scab.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,202
+train/Apple Scab Leaf/00312_apple_scab1.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,203
+train/Apple Scab Leaf/00313_apple_scab2.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,204
+train/Apple Scab Leaf/00314_apple_scab_1465_180.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,205
+train/Apple Scab Leaf/00315_apple_scab_early_jc_sm.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,206
+train/Apple Scab Leaf/00316_apples-severely-affected-by-apple-scab-venturia-inaequalis-dgk11a.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,207
+train/Apple Scab Leaf/00317_apples_apple-scab_02_zoom.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,208
+train/Apple Scab Leaf/00318_apples_apple-scab_03_zoom.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,209
+train/Apple Scab Leaf/00319_applescab-500x383.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,210
+train/Apple Scab Leaf/00320_applescab.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,211
+train/Apple Scab Leaf/00321_applescab004.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,212
+train/Apple Scab Leaf/00322_applescab2.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,213
+train/Apple Scab Leaf/00323_applescab_lf.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,214
+train/Apple Scab Leaf/00324_applescableaf-pcd.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,215
+train/Apple Scab Leaf/00325_applescableaf.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,216
+train/Apple Scab Leaf/00326_applescabmalus1.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,217
+train/Apple Scab Leaf/00327_appletree_20leaf.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,218
+train/Apple Scab Leaf/00328_appscab.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,219
+train/Apple Scab Leaf/00329_branch-with-ill-leaf-of-apple-scab-disease-picture-id928917010_k_6_m_928917010_s_612x612_w_0_h_UY6EBbnGkTzVcp4Tm8myYO7KoIOtrZo3VRDrd91qslo_.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,220
+train/Apple Scab Leaf/00330_crabapple_20scab_20Snowdrift_201_20Crab_206-24-16.JPG.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,221
+train/Apple Scab Leaf/00331_disease-on-fruit-scab-on-apple-tree-j1r0jp.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,222
+train/Apple Scab Leaf/00332_early-symptoms-of-scab-venturia-inaequalis-on-apple-leaves-AW051N.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,223
+train/Apple Scab Leaf/00333_early_symptoms_of_crabapple_scab_on_prairifire.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,224
+train/Apple Scab Leaf/00334_image0002.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_val,225
+train/Apple Scab Leaf/00335_image005.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,226
+train/Apple Scab Leaf/00336_img_1916.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,227
+train/Apple Scab Leaf/00337_img_1920.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,228
+train/Apple Scab Leaf/00338_img_6415.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,229
+train/Apple Scab Leaf/00339_inaequalis1a.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,230
+train/Apple Scab Leaf/00340_inaequalis1b.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,231
+train/Apple Scab Leaf/00341_s-l300.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,232
+train/Apple Scab Leaf/00342_scab-apple-leaf.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,233
+train/Apple Scab Leaf/00343_scab-disease-apple-leaf-macro-62212448.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,234
+train/Apple Scab Leaf/00344_scab-disease-small.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,235
+train/Apple Scab Leaf/00345_scab-on-foliage-300x259.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,236
+train/Apple Scab Leaf/00346_scab-on-tall-spindle-apple-tree-d3phw6.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,237
+train/Apple Scab Leaf/00347_scab-venturia-inaequalis-development-of-disease-on-the-stem-upper-B359MJ.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,238
+train/Apple Scab Leaf/00348_scab_large.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,239
+train/Apple Scab Leaf/00349_scab_on_leaf.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,240
+train/Apple Scab Leaf/00350_schurft.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,241
+train/Apple Scab Leaf/00351_seriously-unwell-apple-tree-fruit-brown-and-split-yellow-spots-on-leaves-scab-P67H27.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,242
+train/Apple Scab Leaf/00352_venturia.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_train,243
+train/Potato leaf early blight/01246_00009.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,244
+train/Potato leaf early blight/01247_0042241.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,245
+train/Potato leaf early blight/01248_0061.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,246
+train/Potato leaf early blight/01249_1024_x_576_-_alternaria_early_infection_symptoms_spreading.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,247
+train/Potato leaf early blight/01250_1024px-Phytophthora_infestans_potato__27Dor_C3_A9_27_2C_aardappelziekte_Dor_C3_A9.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,248
+train/Potato leaf early blight/01251_1200px-Late_blight_on_potato_leaf_2.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,249
+train/Potato leaf early blight/01252_1421_0.jpeg_itok_FMtmgePj.jpg,Potato leaf early blight,Potato___Early_blight,pd_excluded_dup,1164
+train/Potato leaf early blight/01253_14321627273_58d893c3e2_potato-plant.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,353
+train/Potato leaf early blight/01254_1573852-Early-Blight-e1515624612559.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,252
+train/Potato leaf early blight/01255_15hrt15a1f1.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,253
+train/Potato leaf early blight/01256_18028_1.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,355
+train/Potato leaf early blight/01257_20080710-early_2Bblight_2Blesions_2Bwith_2Byellow_2Bhaloes.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,255
+train/Potato leaf early blight/01258_20100816earlyblight.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,256
+train/Potato leaf early blight/01259_21-late_20blight-early_20symptoms_20potato.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,257
+train/Potato leaf early blight/01260_2643371-version_3D1.0_26t_3D1260361493000.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,258
+train/Potato leaf early blight/01261_27013702151_95bd415ba9_o.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,259
+train/Potato leaf early blight/01262_2D1A9552.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,260
+train/Potato leaf early blight/01263_2OBH_29_Gardening_early_blight.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,470
+train/Potato leaf early blight/01264_36-early-blight-concentric-rings.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,526
+train/Potato leaf early blight/01265_3785483636_d888419c98_o.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,263
+train/Potato leaf early blight/01266_45035_1.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,379
+train/Potato leaf early blight/01267_500px-Tomato_Early_Blight_Leaf.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,265
+train/Potato leaf early blight/01268_5688742112_147f33b89d_Phytophthora-Infestans.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,266
+train/Potato leaf early blight/01269_5816740026_d42ef24413_Phytophthora-Infestans.jpg,Potato leaf early blight,Potato___Early_blight,pd_excluded_dup,1167
+train/Potato leaf early blight/01270_80109626.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,268
+train/Potato leaf early blight/01271_87A_Pot_Early.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,269
+train/Potato leaf early blight/01272_AF_news_p4_p5_p6_Blight.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,270
+train/Potato leaf early blight/01273_AGS-154646-S-5801.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,271
+train/Potato leaf early blight/01274_B2650214-Potato_leaf_blight-SPL.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,272
+train/Potato leaf early blight/01275_Blght.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,703
+train/Potato leaf early blight/01276_Blight-leaf-.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,274
+train/Potato leaf early blight/01277_Close-up-view-of-blight-lesion-on-leaf-of-potato-c-Blackthorn-Arable-615x346.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,275
+train/Potato leaf early blight/01278_EB_20lesions1_opt.jpeg.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,276
+train/Potato leaf early blight/01279_Early_20Blight_20-_20Potatoes.ashx_w_350.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,277
+train/Potato leaf early blight/01280_Early-Blight-Leaves-56a348bf3df78cf7727cb35e.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,718
+train/Potato leaf early blight/01281_Early-Blight-UK-A.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,279
+train/Potato leaf early blight/01282_Early_Blight_of_Tomato177.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,280
+train/Potato leaf early blight/01283_Early_blight_on_tomato_leaves_7871930010-Fairfax.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,281
+train/Potato leaf early blight/01284_IMG_0014.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,282
+train/Potato leaf early blight/01285_IMG_0020.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,283
+train/Potato leaf early blight/01286_IMG_0022.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,284
+train/Potato leaf early blight/01287_IMG_9055.JPG.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,1058
+train/Potato leaf early blight/01288_Leaves-with-early-blight-need-to-be-removed-225x300.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,286
+train/Potato leaf early blight/01289_PHYTIN23.img.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,287
+train/Potato leaf early blight/01290_Potato-Blight-Infecting-Leaves.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,288
+train/Potato leaf early blight/01291_Potato-Blight-on-Leaves.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,289
+train/Potato leaf early blight/01292_Potato-blight-leaves-B.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,290
+train/Potato leaf early blight/01293_Potato-blight-on-leaf.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,291
+train/Potato leaf early blight/01294_Potato-earlyblight2.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,292
+train/Potato leaf early blight/01295_Potato_Blight_Leaf.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,293
+train/Potato leaf early blight/01296_Potato_Early_Blight__26_Late_Blight.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,294
+train/Potato leaf early blight/01297_a_solani.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,295
+train/Potato leaf early blight/01298_agriculture-potato-early-blight-leaf-symptoms-on-a-potato-leaf-caused-picture-id586884353.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,296
+train/Potato leaf early blight/01299_alternaria_20_2824_29.JPG.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,297
+train/Potato leaf early blight/01300_backus-045-potato-blight.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,728
+train/Potato leaf early blight/01301_blight-2x.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,299
+train/Potato leaf early blight/01302_blight-leaf-top.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,300
+train/Potato leaf early blight/01303_blighted-potatoe-leave.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,301
+train/Potato leaf early blight/01304_cq5dam.web.16-9.8.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,302
+train/Potato leaf early blight/01305_early_20blight.tom_.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,303
+train/Potato leaf early blight/01306_early-blight-2.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,304
+train/Potato leaf early blight/01307_early-blight-alternaria-alternata-leaf-spotting-on-potato-leaf-ACG5WF.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,305
+train/Potato leaf early blight/01308_early-blight-closeup-NCSU.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,496
+train/Potato leaf early blight/01309_early-blight-cmyk-opt.jpeg.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,307
+train/Potato leaf early blight/01310_early-blight-courtesy-Melanson-MS-State-U-Ext-Bugwood.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,308
+train/Potato leaf early blight/01311_early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-by9j8r.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,501
+train/Potato leaf early blight/01312_early-blight-or-targfet-spot-alternaria-solani-lesions-on-a-tomato-ACG8W6.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,310
+train/Potato leaf early blight/01313_early-blight-potatoes.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,311
+train/Potato leaf early blight/01314_early-blight-septoria-ls-fig-1.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,312
+train/Potato leaf early blight/01315_early_blight1.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,313
+train/Potato leaf early blight/01316_earlyblight21.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,314
+train/Potato leaf early blight/01317_eb2.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,315
+train/Potato leaf early blight/01318_f1078eef6945e3430829706f84bf70c0.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,316
+train/Potato leaf early blight/01319_f204d9b6516c961f48502e0b7ae3f746.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,317
+train/Potato leaf early blight/01320_fac66s01a.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,318
+train/Potato leaf early blight/01321_fac66s01h.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,319
+train/Potato leaf early blight/01322_fi000294.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,320
+train/Potato leaf early blight/01323_home-design.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,321
+train/Potato leaf early blight/01324_irish-blight-symptoms-on-potato-leaves-atmf8b.jpg,Potato leaf early blight,Potato___Early_blight,pd_excluded_dup,1170
+train/Potato leaf early blight/01325_maxresdefault.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,323
+train/Potato leaf early blight/01326_pe-mi-lateblightleaf.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,324
+train/Potato leaf early blight/01327_potato-blight-damage-on-leaves-caused-by-fungus-phytophthora-picture-id505322893.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,325
+train/Potato leaf early blight/01328_potato-blight-leaf.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,326
+train/Potato leaf early blight/01329_potato-blight-phytophora-infestans-close-up-of-infected-leaf-showing-A60HXN.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,327
+train/Potato leaf early blight/01330_potato-blight-phytophora-infestans-close-up-of-infected-leaf-showing-a60hxn.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,328
+train/Potato leaf early blight/01331_potato-blight-phytophora-infestans-close-up-of-infected-leaf-top-surface-a60hxg.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,329
+train/Potato leaf early blight/01332_potato-blight-phytophthora-infestans-close-up-of-upper-surface-of-bmmrxd.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,330
+train/Potato leaf early blight/01333_potato-blight-phytophthora-infestans-showing-infected-leaf-top-surface-bmmrtd.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,331
+train/Potato leaf early blight/01334_potato-blight-showing-on-potato-plant-leaves-KJ70DB.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,332
+train/Potato leaf early blight/01335_potato-early-blight-alternaria-alternata-discreet-lesions-on-a-potato-BY651F.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,333
+train/Potato leaf early blight/01336_potato-early-blight-alternaria-alternata-lesion-on-a-potato-leaf-X96EFD.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,334
+train/Potato leaf early blight/01337_potato-early-blight-alternaria-alternata-lesions-on-a-potato-leaf-by650f.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,335
+train/Potato leaf early blight/01338_potato-early-blight-alternaria-alternata-lesions-on-potato-leaf-XDF64E.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,336
+train/Potato leaf early blight/01339_potato-early-blight-alternaria-alternata-target-spot-lesion-on-a-potato-leaf-x63fwh.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,337
+train/Potato leaf early blight/01340_potato-early-blight-alternaria-alternata-target-spot-lesions-on-a-by64yw.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,338
+train/Potato leaf early blight/01341_potato-early-blight-lesion-on-a-potato-leaf-picture-id81781211.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,339
+train/Potato leaf early blight/01342_potato_alternaria_03_zoom.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,340
+train/Potato leaf early blight/01343_potato_alternaria_04_zoom.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,341
+train/Potato leaf early blight/01344_potato_early-blight_01_zoom.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,342
+train/Potato leaf early blight/01345_potato_early-blight_02_zoom.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,343
+train/Potato leaf early blight/01346_potato_early-blight_03_zoom.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,344
+train/Potato leaf early blight/01347_potato_early-blight_04_zoom.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,345
+train/Potato leaf early blight/01348_potato_early-blight_05_zoom.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,346
+train/Potato leaf early blight/01349_potato_early-blight_06_zoom.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,347
+train/Potato leaf early blight/01350_potatoaltkc.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,348
+train/Potato leaf early blight/01351_potatoearlyblight.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,349
+train/Potato leaf early blight/01352_potatoearlyblightcloseup_pdc.jpg,Potato leaf early blight,Potato___Early_blight,pd_train,350
+train/Potato leaf early blight/01353_potatolb_full_leafx1200.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,351
+train/Potato leaf early blight/01354_potatolb_small_leaf_lesionx1200.jpg,Potato leaf early blight,Potato___Early_blight,pd_val,352
+train/Potato leaf late blight/01356_14321627273_58d893c3e2_b.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,353
+train/Potato leaf late blight/01357_22-late_20blight-advanced_20symptoms_20potato.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,354
+train/Potato leaf late blight/01358_24064_1.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,355
+train/Potato leaf late blight/01359_24847793510_7859b46a3d.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,356
+train/Potato leaf late blight/01360_2619_600.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,357
+train/Potato leaf late blight/01361_286_1600.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,358
+train/Potato leaf late blight/01362_2976_1600.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,359
+train/Potato leaf late blight/01363_3720946948_339251cc94_z.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,360
+train/Potato leaf late blight/01364_3782849713_398f3a1086_b.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,361
+train/Potato leaf late blight/01365_39-late-blight-mold.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,362
+train/Potato leaf late blight/01366_4-late-blight-cmyk-opt.jpeg.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,363
+train/Potato leaf late blight/01367_4442_1600.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,364
+train/Potato leaf late blight/01368_460_1600.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,365
+train/Potato leaf late blight/01369_6-13lateblightleavesMARY.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,366
+train/Potato leaf late blight/01370_6a00d8341c4fe353ef011571354632970c-800wi.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,367
+train/Potato leaf late blight/01371_B2650062-Potato_late_blight-SPL.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,368
+train/Potato leaf late blight/01372_B2750121-Potato_late_blight-SPL.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,369
+train/Potato leaf late blight/01373_Blog-3.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,370
+train/Potato leaf late blight/01374_CzFxqKtWEAA4U3g.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,371
+train/Potato leaf late blight/01375_IMG_0019.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,372
+train/Potato leaf late blight/01376_IMG_5358.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,373
+train/Potato leaf late blight/01377_IMG_5390.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,374
+train/Potato leaf late blight/01378_IMG_5813-1024x768.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,701
+train/Potato leaf late blight/01379_Jessore-potato-late-blight-8-2h2fdkl.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,766
+train/Potato leaf late blight/01380_LB_potato_leaf_topside.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,397
+train/Potato leaf late blight/01381_Late_Blight_of_Potato_and_Tomato.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,378
+train/Potato leaf late blight/01382_Late_blight_on_potato.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,379
+train/Potato leaf late blight/01383_Late-Blight-336x437.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,380
+train/Potato leaf late blight/01384_Late-Blight-56a34bc55f9b58b7d0d15210.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,381
+train/Potato leaf late blight/01385_Late-blight-infected-potato-plants_2.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,382
+train/Potato leaf late blight/01386_Late-blight-leaves_261x240.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,383
+train/Potato leaf late blight/01387_Late-blight-on-leaf-email.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,384
+train/Potato leaf late blight/01388_Late-blight.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,385
+train/Potato leaf late blight/01389_LateBlight02.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,386
+train/Potato leaf late blight/01390_LateBlight03.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,387
+train/Potato leaf late blight/01391_LateBlight13.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,388
+train/Potato leaf late blight/01392_LateBlightFig3new.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,389
+train/Potato leaf late blight/01393_Late_blight_on_potato_leaf.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,390
+train/Potato leaf late blight/01394_Late_blight_on_potato_leaf_3-58bcf5055f9b58af5c27bf74.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,391
+train/Potato leaf late blight/01395_Lateblight.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,392
+train/Potato leaf late blight/01396_Potato-Late-Blight-3-06202014.jpeg.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,393
+train/Potato leaf late blight/01397_Potato-late-blight-008.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,394
+train/Potato leaf late blight/01398_Potato-late-blight-caused-by-Phytophthora-infestans_Q320.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,395
+train/Potato leaf late blight/01399_Potato-late-blight-in-field-trial-1.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,396
+train/Potato leaf late blight/01400_PotatoLateBlight2.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,397
+train/Potato leaf late blight/01401_Symptom_potato_late_blight.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,452
+train/Potato leaf late blight/01402_White-mould-potato-blight.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,399
+train/Potato leaf late blight/01403_b3a52d4eda0deedc34260c4dee847a5b.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,406
+train/Potato leaf late blight/01404_backus-056-potato-blight.jpg,Potato leaf late blight,Potato___Late_blight,pd_excluded_dup,1157
+train/Potato leaf late blight/01405_blight-on-potato-leaves.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,402
+train/Potato leaf late blight/01406_cropped-symptom_potato_late_blight.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,403
+train/Potato leaf late blight/01407_d4fc0f56-da2e-4d7e-9a22-2430b562eeee.jpeg.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,404
+train/Potato leaf late blight/01408_dsc_8151s.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,405
+train/Potato leaf late blight/01409_early_blight.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,406
+train/Potato leaf late blight/01410_fi000293.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,407
+train/Potato leaf late blight/01411_fig1a_500.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,408
+train/Potato leaf late blight/01412_figure-7-gudmestad-opt.jpeg.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,409
+train/Potato leaf late blight/01413_foliar_late_blight.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,410
+train/Potato leaf late blight/01414_gcp_A-2_Late_Blight_of_potatoes_callout1.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,411
+train/Potato leaf late blight/01415_late-blight-leaf-figure1.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,412
+train/Potato leaf late blight/01416_late-blight-leaf.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,413
+train/Potato leaf late blight/01417_late-blight-leaves.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,414
+train/Potato leaf late blight/01418_late-blight-lesions-potato-leaf-miller-research-809.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,415
+train/Potato leaf late blight/01419_late-blight-midwest_twitter.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,416
+train/Potato leaf late blight/01420_late-blight-on-potato-leaf-550.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,417
+train/Potato leaf late blight/01421_late-blight-potato.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,418
+train/Potato leaf late blight/01422_late.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,419
+train/Potato leaf late blight/01423_late_blight.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,420
+train/Potato leaf late blight/01424_late_blight_potato_leaf_500.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,421
+train/Potato leaf late blight/01425_lateblight1.JPG.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,422
+train/Potato leaf late blight/01426_lateblight2.JPG.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,423
+train/Potato leaf late blight/01427_lateblight8.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,424
+train/Potato leaf late blight/01428_lateblightleaf.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,425
+train/Potato leaf late blight/01429_lateblightlesions_1.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,426
+train/Potato leaf late blight/01430_lb4_l.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,427
+train/Potato leaf late blight/01431_lb7_l.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,428
+train/Potato leaf late blight/01432_phytophthora-infestans-late-blight-or-potato-blight-on-the-haulm-of-E29H6G.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,429
+train/Potato leaf late blight/01433_phytophthora-infestans-late-blight-or-potato-blight-on-the-haulm-of-EHW1RD.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,430
+train/Potato leaf late blight/01434_phytophthora-infestans-potato-blight-first-foliar-symptoms-on-solanum-EJKRCK.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,431
+train/Potato leaf late blight/01435_potato-blight-phytophora-infestans-close-up-of-infected-leaf-top-surface-A60HXG.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,432
+train/Potato leaf late blight/01436_potato-late-blight-phytophthora-infestans-lesions-on-potato-foliage-X4XJF4.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,433
+train/Potato leaf late blight/01437_potato-late-blight-phytophthora-infestans-lesions-on-potato-foliage-a1w19k.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,434
+train/Potato leaf late blight/01438_potato-late-blight-phytophthora-infestans-necrotic-disease-lesions-B7DEW3.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,435
+train/Potato leaf late blight/01439_potato-late-blight-phytophthora-infestans-necrotic-disease-lesions-B7G2EC.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,436
+train/Potato leaf late blight/01440_potato-late-blight-symptom-on-leaves-PGB5H9.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,437
+train/Potato leaf late blight/01441_potato-late-blight-symptom-on-leaves-PGB5NJ.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,438
+train/Potato leaf late blight/01442_potato-solanum-tuberosum-late-blight.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,439
+train/Potato leaf late blight/01443_potato_late-blight_02_zoom.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,440
+train/Potato leaf late blight/01444_potato_late-blight_05_zoom.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,441
+train/Potato leaf late blight/01445_potato_late-blight_07_zoom.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,442
+train/Potato leaf late blight/01446_potato_late-blight_08_zoom.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,443
+train/Potato leaf late blight/01447_potato_ocw_botrytis-lateblight.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,444
+train/Potato leaf late blight/01448_potato_ocw_lateblight-earlyblight.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,445
+train/Potato leaf late blight/01449_potatolb_branchx500.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,446
+train/Potato leaf late blight/01450_potatolb_symptoms_meg-cornell_300x225.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,447
+train/Potato leaf late blight/01451_potatolb_upper_leafcux1200.jpg,Potato leaf late blight,Potato___Late_blight,pd_train,448
+train/Potato leaf late blight/01452_wur-late-blight-in-potato-809.jpg,Potato leaf late blight,Potato___Late_blight,pd_val,449
+train/Tomato Early blight leaf/01839_100_46341.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,450
+train/Tomato Early blight leaf/01840_1058_0.jpeg_itok_OQkdtxgv.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,451
+train/Tomato Early blight leaf/01841_126689-004-D622CD2F.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,452
+train/Tomato Early blight leaf/01842_12July_mwnews_3-C.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,453
+train/Tomato Early blight leaf/01843_1576389-early_20blight_20symptoms.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,454
+train/Tomato Early blight leaf/01844_20020531-early_20blight_20_20starts_20on_20lower_20leaves.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,455
+train/Tomato Early blight leaf/01845_20080526-_DSC4211.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,456
+train/Tomato Early blight leaf/01846_2373320.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,457
+train/Tomato Early blight leaf/01847_30053_original.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,458
+train/Tomato Early blight leaf/01848_3606630.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,502
+train/Tomato Early blight leaf/01849_5086-early.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,460
+train/Tomato Early blight leaf/01850_8_20mistakes_204.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,461
+train/Tomato Early blight leaf/01851_8950022d45978228d5e44a35183efdb9--tomatoes-dyi.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,462
+train/Tomato Early blight leaf/01852_BCH_20medium_20thumbnail_20for_20upload_20_2836_29.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,463
+train/Tomato Early blight leaf/01853_Diseased-Tomato-Plant.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,464
+train/Tomato Early blight leaf/01854_EBTomato.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,526
+train/Tomato Early blight leaf/01855_Early_Blight_-_Tomatoes.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,466
+train/Tomato Early blight leaf/01856_Early-bligh_t.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,469
+train/Tomato Early blight leaf/01857_Early-blight-660x440.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,468
+train/Tomato Early blight leaf/01858_Early-blight.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,469
+train/Tomato Early blight leaf/01859_Early_Blight_of_Tomato1687.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,470
+train/Tomato Early blight leaf/01860_Early_blight_1.jpg_1376579808.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,471
+train/Tomato Early blight leaf/01861_FS547-2-big.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,472
+train/Tomato Early blight leaf/01862_IMG_0591.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,473
+train/Tomato Early blight leaf/01863_IMG_2436w.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,474
+train/Tomato Early blight leaf/01864_MPC105550.jpg.rendition.largest.ss.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,1027
+train/Tomato Early blight leaf/01865_Original_e-blight.JPG.rend.hgtvcom.966.725.jpeg.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,476
+train/Tomato Early blight leaf/01866_Tomato_20early_20blight_20target_20like_20leaf_20spot.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,477
+train/Tomato Early blight leaf/01867_Tomato-Alternaria-Early-Blight.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,478
+train/Tomato Early blight leaf/01868_Tomato-Early-Blight-Leaf-Examples-Cornell-University.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,479
+train/Tomato Early blight leaf/01869_Tomato-Early-Blight-Leaves-Cornell-University.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,480
+train/Tomato Early blight leaf/01870_Tomato-Early-Blight-e1513806873934.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,481
+train/Tomato Early blight leaf/01871_Tomato-Early-Blight.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,482
+train/Tomato Early blight leaf/01872_Tomato-blight-large.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,483
+train/Tomato Early blight leaf/01873_Tomato-diseases-prevention-treatment.-Early-blight..jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,484
+train/Tomato Early blight leaf/01874_Tomato-early-blight_1_1-12wmver.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,485
+train/Tomato Early blight leaf/01875_august-11-early-leaf-blight-single-leaf.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,486
+train/Tomato Early blight leaf/01876_b54d0e40027ff5e90e8ba7e1e9abf9bd--garden-guide-garden-ideas.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,1052
+train/Tomato Early blight leaf/01877_blog_early_blight_628.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,488
+train/Tomato Early blight leaf/01878_confused-bacterial-canker-early-blight-zoom.JPG.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,489
+train/Tomato Early blight leaf/01879_droppedImage_3-1.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,490
+train/Tomato Early blight leaf/01880_dscn3168.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,491
+train/Tomato Early blight leaf/01881_ealryblight.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,492
+train/Tomato Early blight leaf/01882_early_20blight_20_283_29.jpg_itok_UMYWI0xr.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,493
+train/Tomato Early blight leaf/01883_early_20blight_20_284_29.jpg_itok_gfK5C193.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,494
+train/Tomato Early blight leaf/01884_early-blight-2x.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,495
+train/Tomato Early blight leaf/01885_early-blight-closeup-sm.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,496
+train/Tomato Early blight leaf/01886_early-blight-in-high-tunnel-tomatoes-19tm74h.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,497
+train/Tomato Early blight leaf/01887_early-blight-in-tomatoes.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,498
+train/Tomato Early blight leaf/01888_early-blight-of-tomato-tomato-1.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,499
+train/Tomato Early blight leaf/01889_early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-BH3TH0.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,500
+train/Tomato Early blight leaf/01890_early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-BY9J8R.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,501
+train/Tomato Early blight leaf/01891_early-blight-pp-labeled_orig.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,502
+train/Tomato Early blight leaf/01892_early-blight1.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,503
+train/Tomato Early blight leaf/01893_early-tomato-blight.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,504
+train/Tomato Early blight leaf/01894_early_blight_spots_l.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,505
+train/Tomato Early blight leaf/01895_early_blight_tomato.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,506
+train/Tomato Early blight leaf/01896_earlyblight.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,507
+train/Tomato Early blight leaf/01897_earlyblightpotato.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_excluded_dup,1160
+train/Tomato Early blight leaf/01898_earlyblightresize.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,509
+train/Tomato Early blight leaf/01899_earlyblighttomato.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,510
+train/Tomato Early blight leaf/01900_ebleafb.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,511
+train/Tomato Early blight leaf/01901_eblight5.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,512
+train/Tomato Early blight leaf/01902_gn201410308259997ar-jpg.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,513
+train/Tomato Early blight leaf/01903_halleck_tomato_earlyblight__inline-half.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,514
+train/Tomato Early blight leaf/01904_p1020083cs.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,515
+train/Tomato Early blight leaf/01905_p1020084s.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,784
+train/Tomato Early blight leaf/01906_spotonleaf1.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,517
+train/Tomato Early blight leaf/01907_tomato-blight-phytophthora-infestans-early-stages-on-tomato-plant-b5n952.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,518
+train/Tomato Early blight leaf/01908_tomato-blight-soil-treatment-early-tomato-blight-in-a-microcosm-lower-leaves-curl-up-and-die-bulls-eye-lesions-tomato-fungus-soil-treatment.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,519
+train/Tomato Early blight leaf/01909_tomato-early-blight-1.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,520
+train/Tomato Early blight leaf/01910_tomato_D2b-Early-blight---RPitblado_zoom.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,521
+train/Tomato Early blight leaf/01911_tomato_blight_early.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_val,522
+train/Tomato Early blight leaf/01912_tomato_early-blight_02_zoom.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,523
+train/Tomato Early blight leaf/01913_tomato_early-blight_03_zoom.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,524
+train/Tomato Early blight leaf/01914_tomato_q1hq-early-blight-5052_zoom.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,525
+train/Tomato Early blight leaf/01915_tomatoblight.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,526
+train/Tomato Early blight leaf/01916_tomatoearlyblight.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,527
+train/Tomato Early blight leaf/01917_web1_copy_early-blight-6-_0.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_train,528
+train/Tomato leaf/02380_003.JPG.jpg,Tomato leaf,Tomato___healthy,pd_train,529
+train/Tomato leaf/02381_009-e1373768789869.jpg,Tomato leaf,Tomato___healthy,pd_train,530
+train/Tomato leaf/02382_100_8283.jpg,Tomato leaf,Tomato___healthy,pd_train,531
+train/Tomato leaf/02383_15481477375.jpg,Tomato leaf,Tomato___healthy,pd_train,532
+train/Tomato leaf/02384_1686.jpg,Tomato leaf,Tomato___healthy,pd_train,533
+train/Tomato leaf/02385_1688.jpg,Tomato leaf,Tomato___healthy,pd_train,534
+train/Tomato leaf/02386_17371378-tomato-leaf.jpg,Tomato leaf,Tomato___healthy,pd_train,535
+train/Tomato leaf/02387_2013-08-20-03.jpg,Tomato leaf,Tomato___healthy,pd_val,536
+train/Tomato leaf/02388_2013-08-20-04.jpg,Tomato leaf,Tomato___healthy,pd_train,537
+train/Tomato leaf/02389_20130609_151253_zpsc7d93f62.jpg,Tomato leaf,Tomato___healthy,pd_val,538
+train/Tomato leaf/02390_20140818-tomato-sauce-vicky-wasik-1.jpg,Tomato leaf,Tomato___healthy,pd_train,539
+train/Tomato leaf/02391_2015-09-17-01.jpg,Tomato leaf,Tomato___healthy,pd_train,540
+train/Tomato leaf/02392_20160428_080421.jpg,Tomato leaf,Tomato___healthy,pd_train,541
+train/Tomato leaf/02393_9bfac1dea7f401e3b379dab33f535bb4.jpg,Tomato leaf,Tomato___healthy,pd_train,542
+train/Tomato leaf/02394_Bacterial-leaf-spot-transplants1.jpg,Tomato leaf,Tomato___healthy,pd_train,543
+train/Tomato leaf/02395_Basil_2Binfected_2Bby_2BTomato_2BSpotted_2BWilt_2BVirus.jpg,Tomato leaf,Tomato___healthy,pd_val,544
+train/Tomato leaf/02396_CTG514794.jpg,Tomato leaf,Tomato___healthy,pd_train,545
+train/Tomato leaf/02397_DSCN1016.JPG.jpg,Tomato leaf,Tomato___healthy,pd_val,546
+train/Tomato leaf/02398_Fig-2.jpg,Tomato leaf,Tomato___healthy,pd_val,547
+train/Tomato leaf/02399_IMG_2061.JPG.jpg,Tomato leaf,Tomato___healthy,pd_train,548
+train/Tomato leaf/02400_IMG_3011.jpg,Tomato leaf,Tomato___healthy,pd_train,549
+train/Tomato leaf/02401_IMG_3192.JPG.jpg,Tomato leaf,Tomato___healthy,pd_train,550
+train/Tomato leaf/02402_L.peruv-assort.jpg,Tomato leaf,Tomato___healthy,pd_train,551
+train/Tomato leaf/02403_Leaves-of-Tomato.jpg,Tomato leaf,Tomato___healthy,pd_train,552
+train/Tomato leaf/02404_PxWBE.jpg,Tomato leaf,Tomato___healthy,pd_train,553
+train/Tomato leaf/02405_Tomato_2Bleaf.jpg,Tomato leaf,Tomato___healthy,pd_train,554
+train/Tomato leaf/02406_curling-issues.jpg,Tomato leaf,Tomato___healthy,pd_val,555
+train/Tomato leaf/02407_depositphotos_120361722-stock-photo-tomato-leaf-closeup.jpg,Tomato leaf,Tomato___healthy,pd_train,556
+train/Tomato leaf/02408_depositphotos_143371585-stock-photo-tomato-leaf-closeup-isolated-on.jpg,Tomato leaf,Tomato___healthy,pd_val,557
+train/Tomato leaf/02409_depositphotos_7182856-stock-photo-tomato-leaf.jpg,Tomato leaf,Tomato___healthy,pd_val,558
+train/Tomato leaf/02410_flies.jpg,Tomato leaf,Tomato___healthy,pd_train,559
+train/Tomato leaf/02411_fpls-08-01602-g001.jpg,Tomato leaf,Tomato___healthy,pd_val,560
+train/Tomato leaf/02412_happier-inside.jpg,Tomato leaf,Tomato___healthy,pd_train,561
+train/Tomato leaf/02413_img_1028.jpg,Tomato leaf,Tomato___healthy,pd_train,562
+train/Tomato leaf/02414_img_6635.jpg,Tomato leaf,Tomato___healthy,pd_train,563
+train/Tomato leaf/02415_late_blight_tomato_leaf4x1200.jpg,Tomato leaf,Tomato___healthy,pd_train,564
+train/Tomato leaf/02416_mortgage-lifter-yellow-leaves-2.jpg,Tomato leaf,Tomato___healthy,pd_train,565
+train/Tomato leaf/02417_p1011399.jpg,Tomato leaf,Tomato___healthy,pd_val,566
+train/Tomato leaf/02418_russian-2-319-dt-2010-leaves-high-tunnel-9-29-2014-c.jpg,Tomato leaf,Tomato___healthy,pd_train,567
+train/Tomato leaf/02419_single-a-green-leaf-of-tomato-picture-id496662675_k_6_m_496662675_s_612x612_w_0_h_6zKfv022H_9cLQSIR_kpcOAlTeg1eIVtLBbc80PQA7Y_.jpg,Tomato leaf,Tomato___healthy,pd_train,568
+train/Tomato leaf/02420_stock-photo-leaves-of-tomato-plant-isolated-on-white-12085288.jpg,Tomato leaf,Tomato___healthy,pd_train,569
+train/Tomato leaf/02421_stock-photo-tomato-leaf-isolated-on-white-background-580281301.jpg,Tomato leaf,Tomato___healthy,pd_train,570
+train/Tomato leaf/02422_stock-photo-tomato-leaves-close-up-macro-shot-isolated-on-white-background-78796204.jpg,Tomato leaf,Tomato___healthy,pd_train,571
+train/Tomato leaf/02423_stock-vector-set-of-vector-elements-for-your-design-red-ripe-tomatoes-with-water-drops-tomato-leaves-and-tomato-203297116.jpg,Tomato leaf,Tomato___healthy,pd_train,572
+train/Tomato leaf/02424_tomato-leaf-20728368.jpg,Tomato leaf,Tomato___healthy,pd_val,573
+train/Tomato leaf/02425_tomato-leaf-26180166.jpg,Tomato leaf,Tomato___healthy,pd_train,574
+train/Tomato leaf/02426_tomato-leaf-6291945.jpg,Tomato leaf,Tomato___healthy,pd_train,575
+train/Tomato leaf/02427_tomato-leaf-6424287.jpg,Tomato leaf,Tomato___healthy,pd_train,576
+train/Tomato leaf/02428_tomato-leaf-close-up.jpg,Tomato leaf,Tomato___healthy,pd_train,577
+train/Tomato leaf/02429_tomato-leaf-isolated-white-34309524.jpg,Tomato leaf,Tomato___healthy,pd_train,578
+train/Tomato leaf/02430_tomato-leaf.jpg,Tomato leaf,Tomato___healthy,pd_train,579
+train/Tomato leaf/02431_tomato-leaves-17427786.jpg,Tomato leaf,Tomato___healthy,pd_train,580
+train/Tomato leaf/02432_tomato-leaves-9025906.jpg,Tomato leaf,Tomato___healthy,pd_train,581
+train/Tomato leaf/02433_tomato-leaves.jpg,Tomato leaf,Tomato___healthy,pd_train,582
+train/Tomato leaf/02434_tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg,Tomato leaf,Tomato___healthy,pd_train,583
+train/Tomato leaf bacterial spot/02060_05-069f1.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,584
+train/Tomato leaf bacterial spot/02061_05-069f12.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,585
+train/Tomato leaf bacterial spot/02062_05-069f9.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,586
+train/Tomato leaf bacterial spot/02063_10-3-bacterial-speck-on-tomato-RON.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,587
+train/Tomato leaf bacterial spot/02064_110608-01-8356c-lg.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,588
+train/Tomato leaf bacterial spot/02065_13582051_f520.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,589
+train/Tomato leaf bacterial spot/02066_250_cb_20100819110637.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,590
+train/Tomato leaf bacterial spot/02067_266914753eb19d87b80567baed1a0f66.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,591
+train/Tomato leaf bacterial spot/02068_30290.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,592
+train/Tomato leaf bacterial spot/02069_3182.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,593
+train/Tomato leaf bacterial spot/02070_38849847120_7ae02bd6c3_b.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,594
+train/Tomato leaf bacterial spot/02071_39765006175_e2f0da764d_b.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,595
+train/Tomato leaf bacterial spot/02072_3bacterial-canker1.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,596
+train/Tomato leaf bacterial spot/02073_4-6_20Keep_20bacterial_20diseasesMARY_20-_20D.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,597
+train/Tomato leaf bacterial spot/02074_5114949114265600-600x272.jpeg.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,598
+train/Tomato leaf bacterial spot/02075_59380.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,599
+train/Tomato leaf bacterial spot/02076_71c944d61b08f6373a9a38d3c250cb2e.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,600
+train/Tomato leaf bacterial spot/02077_BCH_20medium_20thumbnail_20for_20upload_20_2814_29.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,602
+train/Tomato leaf bacterial spot/02078_BCH_20small_20thumbnail_20for_20upload_20_2814_29.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,602
+train/Tomato leaf bacterial spot/02079_Bacterial_Speck_-_Tomatoes.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,603
+train/Tomato leaf bacterial spot/02080_Bacterial_Spot_-_Tomatoes.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,604
+train/Tomato leaf bacterial spot/02081_Bacterial-Leaf-Spot-2.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,605
+train/Tomato leaf bacterial spot/02082_Bacterial-Spot-of-Tomato-Img-2.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,606
+train/Tomato leaf bacterial spot/02083_Bacterial-speck-tomato-leaves.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,607
+train/Tomato leaf bacterial spot/02084_Bacterial-spot-on-tomato-leaves.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,608
+train/Tomato leaf bacterial spot/02085_Bacterial-spot-tomato.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,609
+train/Tomato leaf bacterial spot/02086_BacterialSpot06.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,610
+train/Tomato leaf bacterial spot/02087_BacterialSpot07.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,611
+train/Tomato leaf bacterial spot/02088_Bacterial_spots1300.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,612
+train/Tomato leaf bacterial spot/02089_Bacterial_spots2276.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,613
+train/Tomato leaf bacterial spot/02090_Bacterial_spots2277.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,614
+train/Tomato leaf bacterial spot/02091_Bacterial_spots562.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,615
+train/Tomato leaf bacterial spot/02092_Bacterial_spots586.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,616
+train/Tomato leaf bacterial spot/02093_Canker-GHTom-CAG-leaf-collapse-copy-50-QUALITY-1ur7cyk.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,617
+train/Tomato leaf bacterial spot/02094_CankerFoliar-copy-50-QUALITY-122b09b.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,618
+train/Tomato leaf bacterial spot/02095_CankerRhiemsFiring1-copy-50-QUALITY-16lcw30.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,619
+train/Tomato leaf bacterial spot/02096_FS547-4-big.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,1030
+train/Tomato leaf bacterial spot/02097_Figure-1-6.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,621
+train/Tomato leaf bacterial spot/02098_Figure-3-7.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,622
+train/Tomato leaf bacterial spot/02099_IMG_2348.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,623
+train/Tomato leaf bacterial spot/02100_IN0335.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,624
+train/Tomato leaf bacterial spot/02101_Jeter_20Mtn_20Farm_7053.JPG.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,625
+train/Tomato leaf bacterial spot/02102_Leaf_2Bspot_2B1000.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,626
+train/Tomato leaf bacterial spot/02103_Leaf_2Bsymptoms_2BMDA.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,627
+train/Tomato leaf bacterial spot/02104_Leaf-Spot-300x253.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,628
+train/Tomato leaf bacterial spot/02105_Leaf-spots-on-tomato-leaves-Credits-Hank-Dankers_Q320.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,629
+train/Tomato leaf bacterial spot/02106_Leafspotx450xBugwood.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,630
+train/Tomato leaf bacterial spot/02107_LyraEDISServlet.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,631
+train/Tomato leaf bacterial spot/02108_Paret-Fig-1-tomato-bacterial-leaf-spot.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,632
+train/Tomato leaf bacterial spot/02109_Pest2371.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,633
+train/Tomato leaf bacterial spot/02110_RyBx7MH.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,1047
+train/Tomato leaf bacterial spot/02111_TC3.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,635
+train/Tomato leaf bacterial spot/02112_TC6-300x194.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,636
+train/Tomato leaf bacterial spot/02113_Tomato_20bacterial_20canker.JPG.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,637
+train/Tomato leaf bacterial spot/02114_Tomato_20greenhouse_20phythotoxicity03F.JPG.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,638
+train/Tomato leaf bacterial spot/02115_Tomato-Canker-Marginal-Necrosis-Leaf-GH-Guat-50-QUALITY-10e6dzu.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,639
+train/Tomato leaf bacterial spot/02116_Tomato2_original.JPG_1472597932.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,640
+train/Tomato leaf bacterial spot/02117_TomatoBacterialSpot2.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,641
+train/Tomato leaf bacterial spot/02118_a3fb24f84fe70e5d37352d13106531d6.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,642
+train/Tomato leaf bacterial spot/02119_alter_cank2-150x150.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,643
+train/Tomato leaf bacterial spot/02120_b-speck.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,644
+train/Tomato leaf bacterial spot/02121_bac-canker.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,645
+train/Tomato leaf bacterial spot/02122_bac-spot.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,646
+train/Tomato leaf bacterial spot/02123_bac.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,647
+train/Tomato leaf bacterial spot/02124_bac_spot1-300x298.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,648
+train/Tomato leaf bacterial spot/02125_bac_spot_tomato_leaf_l.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,649
+train/Tomato leaf bacterial spot/02126_bact-spot-leaf-big.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,650
+train/Tomato leaf bacterial spot/02127_bacterial_20leaf_20spot.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,651
+train/Tomato leaf bacterial spot/02128_bacterial-canker3x2400-2ia1kgd.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_excluded_dup,1190
+train/Tomato leaf bacterial spot/02129_bacterial-canker4x640-1nz1vm7.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,653
+train/Tomato leaf bacterial spot/02130_bacterial-leaf-spot.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,654
+train/Tomato leaf bacterial spot/02131_bacterial-speck-tomato-2.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,655
+train/Tomato leaf bacterial spot/02132_bacterial-speck-tomato-3.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,656
+train/Tomato leaf bacterial spot/02133_bacterial-speck-tomato1x2400-275mmny.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,657
+train/Tomato leaf bacterial spot/02134_bacterial-spot-of-tomato-6-638.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,658
+train/Tomato leaf bacterial spot/02135_bacterial-spot-of-tomato-7-638.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,659
+train/Tomato leaf bacterial spot/02136_bacterialLeafSpot04-xqxm03.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,660
+train/Tomato leaf bacterial spot/02137_bacterialLeafSpot07-2jqdlmz.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,661
+train/Tomato leaf bacterial spot/02138_bacterialSpeck03510339f27656b-1scmgh1.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,662
+train/Tomato leaf bacterial spot/02139_bacterialspottomato2.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,663
+train/Tomato leaf bacterial spot/02140_bc34aec4ea7f60a64e380fda44c2f380.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,664
+train/Tomato leaf bacterial spot/02141_beg.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,665
+train/Tomato leaf bacterial spot/02142_clothes014.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,666
+train/Tomato leaf bacterial spot/02143_droppedImage_3.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,667
+train/Tomato leaf bacterial spot/02144_image3_original.JPG_1472755422.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,668
+train/Tomato leaf bacterial spot/02145_image5_300x300_2523.JPG_1472755422.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,669
+train/Tomato leaf bacterial spot/02146_kg32-beefsteak-tomatoes-08_lg.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,670
+train/Tomato leaf bacterial spot/02147_latest_cb_20100808132744.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,671
+train/Tomato leaf bacterial spot/02148_leaf-spot3-big.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,672
+train/Tomato leaf bacterial spot/02149_my-plant-has-brown-spots-leaf-spot-and-canker-on-dogwood.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,673
+train/Tomato leaf bacterial spot/02150_patarea-bacteriana-frunzelor-pseudomonas-syringae-maculicola-31_5_2.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,674
+train/Tomato leaf bacterial spot/02151_pddl-highlights-fig-1-bact-spot.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,675
+train/Tomato leaf bacterial spot/02152_photo-1.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,676
+train/Tomato leaf bacterial spot/02153_photo-764060.JPG.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,677
+train/Tomato leaf bacterial spot/02154_pp1244-05.jpeg.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,678
+train/Tomato leaf bacterial spot/02155_stock-photo-bacterial-spot-on-tomato-559799107.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,679
+train/Tomato leaf bacterial spot/02156_tomato-plant-diseases-identification-leaf-spot-tomato-disease-tomato-plant-fungus-identification.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,680
+train/Tomato leaf bacterial spot/02157_tomato-plant-leaves-brown-spots-tomato-leaves-older-ones-with-spots.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_val,681
+train/Tomato leaf bacterial spot/02158_tomato1A.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,682
+train/Tomato leaf bacterial spot/02159_tomato_bacterial-speck_03_zoom.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,683
+train/Tomato leaf bacterial spot/02160_tomato_xanthomonas_foliage.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_train,684
+train/Tomato leaf late blight/02162_118A_Tom_Late.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,685
+train/Tomato leaf late blight/02163_20150619d.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,699
+train/Tomato leaf late blight/02164_2017-08-27_2B-_2BLate_2BBlight_2Bon_2BGypsy_2B1.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,687
+train/Tomato leaf late blight/02165_5816170621_e1cce08736_z.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,688
+train/Tomato leaf late blight/02166_600.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,689
+train/Tomato leaf late blight/02167_7262-drought.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,690
+train/Tomato leaf late blight/02168_924977LateBlightLeaf.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,713
+train/Tomato leaf late blight/02169_August-17-2012-Supplemental-6.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,692
+train/Tomato leaf late blight/02170_F_294.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,693
+train/Tomato leaf late blight/02171_FS547-6-big.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,694
+train/Tomato leaf late blight/02172_Fig._2014_opta.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,695
+train/Tomato leaf late blight/02173_IMG_1526.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,696
+train/Tomato leaf late blight/02174_IMG_2254.JPG.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,697
+train/Tomato leaf late blight/02175_IMG_4182.JPG.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,698
+train/Tomato leaf late blight/02176_IMG_5360.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,699
+train/Tomato leaf late blight/02177_IMG_5368.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,700
+train/Tomato leaf late blight/02178_IMG_5813.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,701
+train/Tomato leaf late blight/02179_LB-2-225x300.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,702
+train/Tomato leaf late blight/02180_LBleaf2INIA_0.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,703
+train/Tomato leaf late blight/02181_Late_20blight_20tomato1.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,704
+train/Tomato leaf late blight/02182_Late-Blight-A.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,705
+train/Tomato leaf late blight/02183_Late-Blight-on-Tomato-4JDill.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,706
+train/Tomato leaf late blight/02184_Late-blight-foliar-leasion-on-tomato.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,707
+train/Tomato leaf late blight/02185_Late-blight-on-a-tomato-leaf.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,708
+train/Tomato leaf late blight/02186_Late-blight-symptoms-on-tomato-leaves-1r3uhy2.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,709
+train/Tomato leaf late blight/02187_Late-blight-tomato-leaf-VikramBisht-MBag.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,710
+train/Tomato leaf late blight/02188_LateBlight-Leaflet-Large-Spot_9005-ROTATED-sbzntn.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,711
+train/Tomato leaf late blight/02189_LateBlight-Tomato-JJ-2009-17nxg4q.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,712
+train/Tomato leaf late blight/02190_LateBlightLeaf.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,713
+train/Tomato leaf late blight/02191_LateBlt09_05.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,714
+train/Tomato leaf late blight/02192_LateBlt_FromRusinek.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,715
+train/Tomato leaf late blight/02193_Late_Blight_2.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,716
+train/Tomato leaf late blight/02194_Late_blight_on_tomato_leaf__287871756748_29.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,717
+train/Tomato leaf late blight/02195_Pest2369.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,718
+train/Tomato leaf late blight/02196_TOMATO_20LATE_20BLIGHT_20ON_20LEAF.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,719
+train/Tomato leaf late blight/02197_ToamtoLateBlight3-Version-3-oohvze.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,720
+train/Tomato leaf late blight/02198_Tomato_20late_20blight_20lesion_20closeup_2013F.JPG.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,721
+train/Tomato leaf late blight/02199_Tomato-Late-BlightBM.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,722
+train/Tomato leaf late blight/02200_Tomato-late-blight-leaf-Margaret-McGrath-Cornell-Bugwood.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,723
+train/Tomato leaf late blight/02201_TomatoBlight.JPG.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,724
+train/Tomato leaf late blight/02202_TomatoLateBlight-3-Underside-2ebj05b-300x225.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,765
+train/Tomato leaf late blight/02203_TomatoLateBlightTop.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,726
+train/Tomato leaf late blight/02204_Tomato_Blight_Leaves.JPG.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,727
+train/Tomato leaf late blight/02205_a7710b5901ba1f8e9759ef7576cd9f09.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,728
+train/Tomato leaf late blight/02206_dsc_4621c.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,729
+train/Tomato leaf late blight/02207_dsc_4624s.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,730
+train/Tomato leaf late blight/02208_dsc_8140cs.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,731
+train/Tomato leaf late blight/02209_gardening-moisture-lateblight-tomato-leaf.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,732
+train/Tomato leaf late blight/02210_late-blight-TomC2-10.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,733
+train/Tomato leaf late blight/02211_late-blight-fungicides.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,734
+train/Tomato leaf late blight/02212_late-blight-phytophthora-infestans-damage-to-tomato-leaves-and-fruit-cmnxnf.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,735
+train/Tomato leaf late blight/02213_late-blight-tom-leaf.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,736
+train/Tomato leaf late blight/02214_late-blight-tomato-leaf.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,737
+train/Tomato leaf late blight/02215_late-blight-tomato.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,738
+train/Tomato leaf late blight/02216_late_blight1.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_excluded_dup,1199
+train/Tomato leaf late blight/02217_late_blight_2013_longisland1x1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,740
+train/Tomato leaf late blight/02218_late_blight_2013_longisland2x1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,741
+train/Tomato leaf late blight/02219_late_blight_drought_leaves1x1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,742
+train/Tomato leaf late blight/02220_late_blight_drought_leavescuux1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,743
+train/Tomato leaf late blight/02221_late_blight_tomato_leaf.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,744
+train/Tomato leaf late blight/02222_late_blight_tomato_leaf1x1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,745
+train/Tomato leaf late blight/02223_late_blight_tomato_leaf5x12001-650x305.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,746
+train/Tomato leaf late blight/02224_late_blight_tomato_leaf5x12001.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,747
+train/Tomato leaf late blight/02225_late_blight_tomato_leaf_.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,748
+train/Tomato leaf late blight/02226_late_blight_tomato_leaf_sporex1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,749
+train/Tomato leaf late blight/02227_late_blight_tomato_leavesx500.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,750
+train/Tomato leaf late blight/02228_late_blight_tomato_transplant2x1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,751
+train/Tomato leaf late blight/02229_late_blight_tomato_unusual-symptomsx1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,752
+train/Tomato leaf late blight/02230_lateblight2.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,753
+train/Tomato leaf late blight/02231_lateblightTom_lesion.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,754
+train/Tomato leaf late blight/02232_lateblightTom_lesion3.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,755
+train/Tomato leaf late blight/02233_lb2.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,756
+train/Tomato leaf late blight/02234_lb_leaf_lesions2x1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,757
+train/Tomato leaf late blight/02235_lb_leaf_lesions3x1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,758
+train/Tomato leaf late blight/02236_lb_leaf_lesions4x1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,759
+train/Tomato leaf late blight/02237_lbleaf.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,760
+train/Tomato leaf late blight/02238_p1020076cs.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,761
+train/Tomato leaf late blight/02239_photo-2.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,762
+train/Tomato leaf late blight/02240_photo-9.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,763
+train/Tomato leaf late blight/02241_stock-photo-tomato-plants-infected-by-the-late-blight-plant-pathogen-phytophthora-infestans-macro-539209615.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,764
+train/Tomato leaf late blight/02242_symptoms_of_late_blight.jpg2__0.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,765
+train/Tomato leaf late blight/02243_symptoms_of_late_blight_0.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,766
+train/Tomato leaf late blight/02244_tomato_blight.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,767
+train/Tomato leaf late blight/02245_tomato-blight-phytophthora-infestans-close-up-of-infected-leaf-b5n95x.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,768
+train/Tomato leaf late blight/02246_tomato-late-blight-conn-2015-137c.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,769
+train/Tomato leaf late blight/02247_tomato-late-blight-conn-2015-139rcs.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,770
+train/Tomato leaf late blight/02248_tomato-late-blight-foliar-lesions_Scot-Nelson_CC-BY-SA-2.0.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_excluded_dup,1167
+train/Tomato leaf late blight/02249_tomato-late-blight-leaf-61-3x32.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,772
+train/Tomato leaf late blight/02250_tomato-late-blight-phytophthora-infestans-lesions-and-damage-on-tomato-bh3w9j.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,773
+train/Tomato leaf late blight/02251_tomato-late-blight-phytophthora-infestans-lesions-on-greenhouse-grown-ATA11J.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,774
+train/Tomato leaf late blight/02252_tomato-late-blight-phytophthora-infestans-mycelium-and-lesions-on-a15yr2.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,775
+train/Tomato leaf late blight/02253_tomato-late-blight-phytophthora-infestans-necrosis-sporulation-on-a-tomato-leaf-underside-X5YDDP.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_val,776
+train/Tomato leaf late blight/02254_tomato-late-blight-phytophthora-infestans-necrosis-sporulation-on-a-tomato-leaf-underside-XA233C.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,777
+train/Tomato leaf late blight/02255_tomato-late-blight-phytophthora-infestans-on-tomato-leaves-a15ym0.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,778
+train/Tomato leaf late blight/02256_tomato-late-blight-sporulation-on-a-tomato-leaflet-picture-id81781370_s_612x612.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,779
+train/Tomato leaf late blight/02257_tomato.early.blightH.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,780
+train/Tomato leaf late blight/02258_tomato_D33a-Late-blight-015-OMAFHRT_zoom.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,781
+train/Tomato leaf late blight/02259_tomato_late-blight_01_zoom.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,782
+train/Tomato leaf late blight/02260_tomato_late-blight_03_zoom.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,783
+train/Tomato leaf late blight/02261_tomato_late-blight_04_zoom.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,784
+train/Tomato leaf late blight/02262_tomato_late-blight_05_zoom.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_train,785
+train/Tomato leaf mosaic virus/02264_1422_0.jpeg.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,786
+train/Tomato leaf mosaic virus/02265_3-tomato-mosaic-virus_web.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_val,787
+train/Tomato leaf mosaic virus/02266_4b0bfd_df5a85f728c74cecbe908a24feadab02.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_val,788
+train/Tomato leaf mosaic virus/02267_51196-004-61703A1B.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,789
+train/Tomato leaf mosaic virus/02268_5Tomato_Mosaic_Virus.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,790
+train/Tomato leaf mosaic virus/02269_DSC02246.JPG.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_val,791
+train/Tomato leaf mosaic virus/02270_TMV-3.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,792
+train/Tomato leaf mosaic virus/02271_TNRV2.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,793
+train/Tomato leaf mosaic virus/02272_Tomato_2Bmosaic_2Bvirus.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,794
+train/Tomato leaf mosaic virus/02273_Tomato_mosaic_virus.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_val,795
+train/Tomato leaf mosaic virus/02274_Tomato-brown-rugose-fruit-virus-ToBRFV-infected-tomato-Solanum-lycopersicum-plants_Q320.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,796
+train/Tomato leaf mosaic virus/02275_ab40cce958c60d8b6e0ec2e4fdb8f526.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,862
+train/Tomato leaf mosaic virus/02276_d41c86a650e49b8066d6b347d8e9d3ad.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,798
+train/Tomato leaf mosaic virus/02277_dahliaviralsymptoms2lowresjpg.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_val,799
+train/Tomato leaf mosaic virus/02278_dummen-tmv.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_val,800
+train/Tomato leaf mosaic virus/02279_fig1-2k11-163-165.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,801
+train/Tomato leaf mosaic virus/02280_fig2-2k11-1-12.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_val,802
+train/Tomato leaf mosaic virus/02281_image018.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,803
+train/Tomato leaf mosaic virus/02282_image022.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,804
+train/Tomato leaf mosaic virus/02283_image024.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,805
+train/Tomato leaf mosaic virus/02284_mosaic-virus-foliage.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,806
+train/Tomato leaf mosaic virus/02285_mosaic_virus_tomato.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,807
+train/Tomato leaf mosaic virus/02286_mosaic_virus_tomato_small.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,808
+train/Tomato leaf mosaic virus/02287_mosiac-virus3.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_val,809
+train/Tomato leaf mosaic virus/02288_stock-photo-tomato-mosaic-virus-disease-on-tomato-559799668.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,810
+train/Tomato leaf mosaic virus/02289_thumb-500.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,811
+train/Tomato leaf mosaic virus/02290_tmv-tomato-16.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,812
+train/Tomato leaf mosaic virus/02291_tomato-fern-leaf-a-symptom-of-tmv-cmv-or-pepmv-virus-on-tomato-plants-h6ey8w.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,813
+train/Tomato leaf mosaic virus/02292_tomato-leaf-herbicide-damage.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,814
+train/Tomato leaf mosaic virus/02293_tomato-leaves-260nw-670831669.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_val,815
+train/Tomato leaf mosaic virus/02294_tomato-mosaic-virus-1.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,816
+train/Tomato leaf mosaic virus/02295_tomato-mosaic-virus-F0BA26.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,817
+train/Tomato leaf mosaic virus/02296_tomato-mosaic-virus-disease-on-260nw-559799638.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,818
+train/Tomato leaf mosaic virus/02297_tomato-mosaic-virus-disease-on-260nw-625499771.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,819
+train/Tomato leaf mosaic virus/02298_tomato-mosaic-virus-disease-on-260nw-625499777.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,820
+train/Tomato leaf mosaic virus/02299_tomato-mosaic-virus-disease-on-260nw-625499780.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,821
+train/Tomato leaf mosaic virus/02300_tomato-mosaic-virus-leaf.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,822
+train/Tomato leaf mosaic virus/02301_tomato-mosaic-virus.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,823
+train/Tomato leaf mosaic virus/02302_tomato_leaf_curl_ND_on_luffah_KC3701030-3.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,824
+train/Tomato leaf mosaic virus/02303_tomato_mosaic_virus.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,825
+train/Tomato leaf mosaic virus/02304_tomato_virus_01_zoom.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,826
+train/Tomato leaf mosaic virus/02305_tomato_virus_06_zoom.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,827
+train/Tomato leaf mosaic virus/02306_tomatodisease001sm.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,828
+train/Tomato leaf mosaic virus/02307_wd0phb4.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_train,829
+train/Tomato leaf yellow virus/02309_072.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,830
+train/Tomato leaf yellow virus/02310_1342017-162221-44540.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,831
+train/Tomato leaf yellow virus/02311_14456.img.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,832
+train/Tomato leaf yellow virus/02312_18071.img.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,833
+train/Tomato leaf yellow virus/02313_2.--Virused-tomato-leaves-versus.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,834
+train/Tomato leaf yellow virus/02314_28619919393_7ef44acccc_b.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,835
+train/Tomato leaf yellow virus/02315_29994445671_b6914b44d0_b.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,836
+train/Tomato leaf yellow virus/02316_36ca1410e232eec4a8003fe411246820.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,837
+train/Tomato leaf yellow virus/02317_5146.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,838
+train/Tomato leaf yellow virus/02318_534ddf3a932e62dd929a3ac1b29bfa29.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,839
+train/Tomato leaf yellow virus/02319_7585001780_4b89e826b7.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,840
+train/Tomato leaf yellow virus/02320_8.--Virus-Damaged-foliage-at-top-versus-healthy_-non-infected-bottom-foliage.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,841
+train/Tomato leaf yellow virus/02321_8226402609_62d16884a7_b.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,842
+train/Tomato leaf yellow virus/02322_8227475116_0d40e8f21c_b.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,843
+train/Tomato leaf yellow virus/02323_8e60bae9f613f360403943f108a03083.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,844
+train/Tomato leaf yellow virus/02324_DSC01999.JPG.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,845
+train/Tomato leaf yellow virus/02325_DSC02006.JPG.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,846
+train/Tomato leaf yellow virus/02326_DSC02007.JPG.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,847
+train/Tomato leaf yellow virus/02327_DSC_3019_320x209.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,848
+train/Tomato leaf yellow virus/02328_Figure-4.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,849
+train/Tomato leaf yellow virus/02329_IMG_2684.JPG.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,850
+train/Tomato leaf yellow virus/02330_IMG_2686.JPG.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,851
+train/Tomato leaf yellow virus/02331_IMG_2687.JPG.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,852
+train/Tomato leaf yellow virus/02332_IU-TYLCV_img_6.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,853
+train/Tomato leaf yellow virus/02333_IU-TYLCV_img_8.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,854
+train/Tomato leaf yellow virus/02334_TYLCV-tomate-DB-441-170.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,855
+train/Tomato leaf yellow virus/02335_TYLCV-tomate-DB-442-167.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,856
+train/Tomato leaf yellow virus/02336_TYLCV-tomate-DB-445-171.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,857
+train/Tomato leaf yellow virus/02337_TYLCV1.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,858
+train/Tomato leaf yellow virus/02338_TYLCV2.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,859
+train/Tomato leaf yellow virus/02339_TYLCV4.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,860
+train/Tomato leaf yellow virus/02340_TYLCVDFerrinlr.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,878
+train/Tomato leaf yellow virus/02341_Tomato2.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,862
+train/Tomato leaf yellow virus/02342_art_15017325188173_a24a66.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,863
+train/Tomato leaf yellow virus/02343_dscn1652cropped.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,864
+train/Tomato leaf yellow virus/02344_illustration-thematique-urbino-fig5.plante_20tylcv.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,865
+train/Tomato leaf yellow virus/02345_latest_cb_20100719124603.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,866
+train/Tomato leaf yellow virus/02346_leaf_20curl_3.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,867
+train/Tomato leaf yellow virus/02347_leaves-curling-on-tomato-plant-characteristic-symptoms-tomato-plants-leaves-curling-down-on-tomato-plant.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,868
+train/Tomato leaf yellow virus/02348_leaves-on-tomato-plant-turning-yellow-what-does-it-mean-when-your-plant-leaves-turn-yellow-tomato-leaf-problems-a-guide-to-leaves-tomato-plant-turning,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,869
+train/Tomato leaf yellow virus/02349_psyllid-yellows.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,870
+train/Tomato leaf yellow virus/02350_r_tomato.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,871
+train/Tomato leaf yellow virus/02351_role-of-whitefly-in-plant-virus-transmission-by-pmanikandan-13-638.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,872
+train/Tomato leaf yellow virus/02352_role-of-whitefly-in-plant-virus-transmission-by-pmanikandan-25-638.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,873
+train/Tomato leaf yellow virus/02353_s-prasanth-kumar-young-scientist-awarded-presentation-2-728.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,874
+train/Tomato leaf yellow virus/02354_tj5itxzunn3k.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,875
+train/Tomato leaf yellow virus/02355_tlcv-tomato-leaf-curl-virus-symptoms-on-a-glasshouse-tomato-plant-ACGAG6.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,876
+train/Tomato leaf yellow virus/02356_tlcv-tomato-leaf-curl-virus-symptoms-on-a-glasshouse-tomato-plant-bmyh62.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,877
+train/Tomato leaf yellow virus/02357_tomato-plant-virus-tomato-yellow-leaf-curl-virus-tomato-plant-disease-mosaic-virus.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,878
+train/Tomato leaf yellow virus/02358_tomato-yellow-closeup-2.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,879
+train/Tomato leaf yellow virus/02359_tomato-yellow-closeup-3.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,880
+train/Tomato leaf yellow virus/02360_tomato-yellow-closeup-4.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,881
+train/Tomato leaf yellow virus/02361_tomato-yellow-leaf-curl-disease-260nw-1006958086.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,882
+train/Tomato leaf yellow virus/02362_tomato-yellow-leaf-curl-disease-260nw-1072448252.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,883
+train/Tomato leaf yellow virus/02363_tomato-yellow-leaf-curl-disease.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,984
+train/Tomato leaf yellow virus/02364_tomato-yellow-leaf-curl-virus-pdf-78kb.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,885
+train/Tomato leaf yellow virus/02365_tomato-yellow-leaf-curl-virus-symptoms-on-tomato-leaves-on-plants-ACGAME.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,886
+train/Tomato leaf yellow virus/02366_tomato-yellow-leaf-curl-virus-symptoms-on-tomato-leaves-on-plants-AXKWFY.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,887
+train/Tomato leaf yellow virus/02367_tomato-yellow-leaf-curl-virus-tomato-1.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,888
+train/Tomato leaf yellow virus/02368_tomato-yellow-leaf-curl-virus-tylcv_950983.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,889
+train/Tomato leaf yellow virus/02369_tomato-yellow-leaf-curl-virus-tylvcv-symptoms-on-a-tomato-plant-under-BMYHXY.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,890
+train/Tomato leaf yellow virus/02370_tomato_leaf_roll.JPG.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,891
+train/Tomato leaf yellow virus/02371_tomato_yellow_leaf_curl_virus.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,892
+train/Tomato leaf yellow virus/02372_tomatoyellowleafcurlcropped.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,893
+train/Tomato leaf yellow virus/02373_tylcv-seminar-1-638.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_excluded_dup,1223
+train/Tomato leaf yellow virus/02374_tylcv.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_val,895
+train/Tomato leaf yellow virus/02375_tylcv1-.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,896
+train/Tomato leaf yellow virus/02376_virus1.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,897
+train/Tomato leaf yellow virus/02377_virus2.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,898
+train/Tomato leaf yellow virus/02378_yellowing.JPG.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_train,899
+train/Tomato mold leaf/02436_100_4542.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,900
+train/Tomato mold leaf/02437_119B_Tom_Mold.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,901
+train/Tomato mold leaf/02438_2195890.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,902
+train/Tomato mold leaf/02439_23600077_1572609202782510_2145699867_o.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,903
+train/Tomato mold leaf/02440_23601051_1572608349449262_2029169498_o.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,904
+train/Tomato mold leaf/02441_23633262_1572609386115825_1396180255_o.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,905
+train/Tomato mold leaf/02442_4118c92ffde66d327ee14e4023320bf7.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,906
+train/Tomato mold leaf/02443_5830204360_757cd7fdfc_z.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,907
+train/Tomato mold leaf/02444_603-116-0.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,908
+train/Tomato mold leaf/02445_6032331.JPG.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,909
+train/Tomato mold leaf/02446_607-155-0.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,910
+train/Tomato mold leaf/02447_607-155-1.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,911
+train/Tomato mold leaf/02448_8915974546_00664cefe3_z.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,912
+train/Tomato mold leaf/02449_ArticleImage.aspx_imgid_4987.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,913
+train/Tomato mold leaf/02450_B_29-Leafunsidecladosp-envez.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,914
+train/Tomato mold leaf/02451_BlackLeafMold2.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,915
+train/Tomato mold leaf/02452_Botrytis-Tomato-Seedlings-2-copy-50QUALITY-17wck0d.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,916
+train/Tomato mold leaf/02453_DSCN2697.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,917
+train/Tomato mold leaf/02454_Fig._2015_opta.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,918
+train/Tomato mold leaf/02455_Fig._2016_opt.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,919
+train/Tomato mold leaf/02456_GIVXB.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,920
+train/Tomato mold leaf/02457_HighTunnel_TLM5.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,921
+train/Tomato mold leaf/02458_HighTunnel_TLM6.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,922
+train/Tomato mold leaf/02459_IMG_1261.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,923
+train/Tomato mold leaf/02460_IMG_7442_20resized_0.preview.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,924
+train/Tomato mold leaf/02461_Leaf_Mold_lower_leaf_surface_spores__28conidia_29.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,925
+train/Tomato mold leaf/02462_Leaf_Mold_upper_leaf_surface.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,926
+train/Tomato mold leaf/02463_Leaf_mold_tomato__25282_2529.JPG.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,927
+train/Tomato mold leaf/02464_Leaf_mold_tomato__25283_2529.JPG.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,928
+train/Tomato mold leaf/02465_Leaf-mold-caused-by-the-fungal-pathogen-Passalore-fulva-in-tomatoes.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,929
+train/Tomato mold leaf/02466_Leaf-mold-web.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,930
+train/Tomato mold leaf/02467_Leaf-mold3.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,931
+train/Tomato mold leaf/02468_OLU13.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,932
+train/Tomato mold leaf/02469_Ormvn.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,933
+train/Tomato mold leaf/02470_P1020365.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,934
+train/Tomato mold leaf/02471_Problem-2a.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,935
+train/Tomato mold leaf/02472_Tomato_20greenhouse_20leaf_20edema_20and_20distortion2F.JPG.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,936
+train/Tomato mold leaf/02473_Tomato_leaf_mold.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,937
+train/Tomato mold leaf/02474_TomatoLeafMold1-50QUALITY-16lgkq6.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,938
+train/Tomato mold leaf/02475_TomatoLeafMold2-50QUALITY-1b89zfs.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,939
+train/Tomato mold leaf/02476_black_20leaf_20mold_20_283_29.JPG_itok_u5TDHCSM.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,940
+train/Tomato mold leaf/02477_black_20leaf_20mold_20_284_29.JPG_itok_DIIUw9JU.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,941
+train/Tomato mold leaf/02478_d-to-tylv-fo005-14496A31BE70553130A.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,942
+train/Tomato mold leaf/02479_dscf2712.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,943
+train/Tomato mold leaf/02480_dscn6690.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,944
+train/Tomato mold leaf/02481_gray-leaf-spot-300x225.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,945
+train/Tomato mold leaf/02482_gray-mold-on-tomato-leaf.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,946
+train/Tomato mold leaf/02483_grey-mould-botrytis-cinerea-on-bottom-of-a-tomato-leaf-late-in-the-AFRDAN.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,947
+train/Tomato mold leaf/02484_image233.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,948
+train/Tomato mold leaf/02485_latest_cb_20100723105221.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,949
+train/Tomato mold leaf/02486_leaf_2Binf_2B800_2B1.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,950
+train/Tomato mold leaf/02487_leaf_mold1.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,951
+train/Tomato mold leaf/02488_leaf_mold2.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,952
+train/Tomato mold leaf/02489_leaf_mold_nightshade1x500.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,953
+train/Tomato mold leaf/02490_leaf_mold_nightshade2x500.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,954
+train/Tomato mold leaf/02491_leaf_mold_tomato1x1200.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,955
+train/Tomato mold leaf/02492_leaf_mold_tomato2x1200.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,956
+train/Tomato mold leaf/02493_leaf_mold_tomato3x1200.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,957
+train/Tomato mold leaf/02494_leaf_mold_tomato4x1200.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,958
+train/Tomato mold leaf/02495_leaf_mold_tomato5x1200.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,959
+train/Tomato mold leaf/02496_leaf_mold_tomato6x1200.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,960
+train/Tomato mold leaf/02497_leaf_mold_tomato7x1200.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,961
+train/Tomato mold leaf/02498_leafmold.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,962
+train/Tomato mold leaf/02499_leafmoldtomato1.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,963
+train/Tomato mold leaf/02500_leafmoldtomato2.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,964
+train/Tomato mold leaf/02501_pm3.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,965
+train/Tomato mold leaf/02502_tdisease12.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,966
+train/Tomato mold leaf/02503_tdisease6.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,967
+train/Tomato mold leaf/02504_tdisease7.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,968
+train/Tomato mold leaf/02505_tomato-gray-leaf-spot.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,969
+train/Tomato mold leaf/02506_tomato-leaf-2.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,970
+train/Tomato mold leaf/02507_tomato-leaf-mold-2.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,971
+train/Tomato mold leaf/02508_tomato-leaf-mold-infection-on-a-leaf-top-and-underside-picture-id81781575_s_612x612.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,972
+train/Tomato mold leaf/02509_tomato-leaf-mold.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,973
+train/Tomato mold leaf/02510_tomato.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,974
+train/Tomato mold leaf/02511_tomato_Leaf-roll-physiological-7059-SLoewen_thm.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,975
+train/Tomato mold leaf/02512_tomato_fulvia.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,976
+train/Tomato mold leaf/02513_tomato_fulvia2.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,977
+train/Tomato mold leaf/02514_tomato_leaf-mold_01_zoom.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,978
+train/Tomato mold leaf/02515_tomato_leaf-mold_02_zoom.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,979
+train/Tomato mold leaf/02516_tomato_leaf-mold_03_zoom.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_val,980
+train/Tomato mold leaf/02517_tomato_leaf-mold_04_zoom.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,981
+train/Tomato mold leaf/02518_tomato_plants_1_original.JPG_1407178095.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,982
+train/Tomato mold leaf/02519_top-leaf-mold-Fulva-fulvea-WN.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,983
+train/Tomato mold leaf/02520_tylc.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_train,984
+train/Tomato Septoria leaf spot/01919_128110613-56a6d3633df78cf7729070ad.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,985
+train/Tomato Septoria leaf spot/01920_140714__2811_29.JPG.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,986
+train/Tomato Septoria leaf spot/01921_1b.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,987
+train/Tomato Septoria leaf spot/01922_1c421500ddd390c90596ad2cf12d5429.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,988
+train/Tomato Septoria leaf spot/01923_2010-jul-5-jul-9-03.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,989
+train/Tomato Septoria leaf spot/01924_20100824septoria.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,990
+train/Tomato Septoria leaf spot/01925_2014-08-27_2B-_2BCloser_2BView_2Bof_2BSeptoria_2BLeaf_2BSpot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,991
+train/Tomato Septoria leaf spot/01926_20809116-standard.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,992
+train/Tomato Septoria leaf spot/01927_28018723549_3a16c1467b_b.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,993
+train/Tomato Septoria leaf spot/01928_3-septoria-leaf-blight-n.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,994
+train/Tomato Septoria leaf spot/01929_32-Septoria-leaf-spot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,995
+train/Tomato Septoria leaf spot/01930_3893.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,996
+train/Tomato Septoria leaf spot/01931_46-Septoria-leaf-spot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,997
+train/Tomato Septoria leaf spot/01932_4853086777_bc41d29801.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,998
+train/Tomato Septoria leaf spot/01933_49-Septoria-leaf-spot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,999
+train/Tomato Septoria leaf spot/01934_5008922249_880e15c21f.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1000
+train/Tomato Septoria leaf spot/01935_5315825271570432-600x272.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1001
+train/Tomato Septoria leaf spot/01936_5315825271570432.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1002
+train/Tomato Septoria leaf spot/01937_5336411888680960-600x272.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1003
+train/Tomato Septoria leaf spot/01938_5454635393351680.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1004
+train/Tomato Septoria leaf spot/01939_5516100468998144-600x272.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1005
+train/Tomato Septoria leaf spot/01940_5516100468998144.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1006
+train/Tomato Septoria leaf spot/01941_5579e3247db73.image.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1007
+train/Tomato Septoria leaf spot/01942_5775225744523264-600x272.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1008
+train/Tomato Septoria leaf spot/01943_5775225744523264.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1009
+train/Tomato Septoria leaf spot/01944_5866245865865216.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1010
+train/Tomato Septoria leaf spot/01945_5c77186a4ea326e5495c9d03cd89ce16.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1064
+train/Tomato Septoria leaf spot/01946_6_1_09_019.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1012
+train/Tomato Septoria leaf spot/01947_6078710516023296-600x272.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1013
+train/Tomato Septoria leaf spot/01948_6078710516023296.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1014
+train/Tomato Septoria leaf spot/01949_6134794031202304-600x272.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1015
+train/Tomato Septoria leaf spot/01950_6242739939180544.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1016
+train/Tomato Septoria leaf spot/01951_6336392950972416.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1017
+train/Tomato Septoria leaf spot/01952_66e7583ebe11cf0bd06435e4167bd4fd.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1018
+train/Tomato Septoria leaf spot/01953_BCH_20medium_20thumbnail_20for_20upload_20_2861_29.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1019
+train/Tomato Septoria leaf spot/01954_Bean-rust-on-leaves.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1020
+train/Tomato Septoria leaf spot/01955_EPP-7625Fig-5-143x300.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1021
+train/Tomato Septoria leaf spot/01956_IMG_0312_original.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1022
+train/Tomato Septoria leaf spot/01957_IMG_0863_1500x1500_253E.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1023
+train/Tomato Septoria leaf spot/01958_IMG_3175.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1024
+train/Tomato Septoria leaf spot/01959_IMG_4452_1500x1500_253E.JPG_1407883119.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1025
+train/Tomato Septoria leaf spot/01960_Leaf_20spot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1026
+train/Tomato Septoria leaf spot/01961_MPC105550.jpg.rendition.largest.550.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1027
+train/Tomato Septoria leaf spot/01962_PHOTO_1333642732277.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1028
+train/Tomato Septoria leaf spot/01963_PHOTO_1333642740144.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1029
+train/Tomato Septoria leaf spot/01964_Sept9-300x225.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1030
+train/Tomato Septoria leaf spot/01965_Septoria_2Bleaf_2Bspot.tomato.JPG.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1031
+train/Tomato Septoria leaf spot/01966_Septoria_Leaf_Spot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1032
+train/Tomato Septoria leaf spot/01967_Septoria-461x346.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1033
+train/Tomato Septoria leaf spot/01968_Septoria-Tomato.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1119
+train/Tomato Septoria leaf spot/01969_Septoria-leaf-spot-hc.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1035
+train/Tomato Septoria leaf spot/01970_Septoria-leaf-spot-on-tomato-FOR-WEB.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1036
+train/Tomato Septoria leaf spot/01971_SeptoriaLeaf_T3.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1037
+train/Tomato Septoria leaf spot/01972_SeptoriaTomato-B.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1038
+train/Tomato Septoria leaf spot/01973_Septoria_Leaf_Spot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1039
+train/Tomato Septoria leaf spot/01974_Septoria_Leaf_Spot_of_Tomato186.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1040
+train/Tomato Septoria leaf spot/01975_Septoria_Leaf_Spot_of_Tomato187.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1041
+train/Tomato Septoria leaf spot/01976_Septoria_Leaf_Spot_of_Tomato2241-450x300.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1042
+train/Tomato Septoria leaf spot/01977_Septoria_leaf_spot_tomato.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1043
+train/Tomato Septoria leaf spot/01978_Septoria_tomato_Margaret_20B_p8170755_0002_25004.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1044
+train/Tomato Septoria leaf spot/01979_Tom_Sept1.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1045
+train/Tomato Septoria leaf spot/01980_Tom_Sept4.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1046
+train/Tomato Septoria leaf spot/01981_Tomato_20bacterial_20spot_20closeup-050S.JPG.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1047
+train/Tomato Septoria leaf spot/01982_Tomato_Problems_Septoria_Leaf_Spot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1048
+train/Tomato Septoria leaf spot/01983_Tomato_leaf_spot2.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1049
+train/Tomato Septoria leaf spot/01984_TomatoDisease_IMG_2744_2016Jul01_original.JPG_1472858324.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1050
+train/Tomato Septoria leaf spot/01985_Tomato_Septoria_Leaf_Spot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1051
+train/Tomato Septoria leaf spot/01986_b54d0e40027ff5e90e8ba7e1e9abf9bd.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1052
+train/Tomato Septoria leaf spot/01987_b6ca3f80-cc10-4d4f-be0d-771deb9a4969.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1053
+train/Tomato Septoria leaf spot/01988_bd0b83af4c5e4b739ccc6c36fa66f141.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1054
+train/Tomato Septoria leaf spot/01989_bed-4-tomatoes-23jun13.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1055
+train/Tomato Septoria leaf spot/01990_bigseptoria01.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1056
+train/Tomato Septoria leaf spot/01991_bnX8Q.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1057
+train/Tomato Septoria leaf spot/01992_caf212ccf4696675469a0beaa9e57213.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1058
+train/Tomato Septoria leaf spot/01993_classic-septoria.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1059
+train/Tomato Septoria leaf spot/01994_closeup-of-tomato-leaf-y4af51-1024x768.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1060
+train/Tomato Septoria leaf spot/01995_confused-early-blight-septoria-zoom.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1061
+train/Tomato Septoria leaf spot/01996_early_blight_on_leaf_yel_halo_IMG_2313.JPG.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1062
+train/Tomato Septoria leaf spot/01997_early-blight-septoria-ls-fig-3.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_excluded_dup,1239
+train/Tomato Septoria leaf spot/01998_eb56b488e349c2de423ab6afbcc4bd5b.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1064
+train/Tomato Septoria leaf spot/01999_gray-leaf-spot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1124
+train/Tomato Septoria leaf spot/02000_img_6564.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1066
+train/Tomato Septoria leaf spot/02001_leafspot-5aba8283642dca003687f6fa.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1067
+train/Tomato Septoria leaf spot/02002_septoria_leaf_spota.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1068
+train/Tomato Septoria leaf spot/02003_septoria_on_rudbeckia.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1069
+train/Tomato Septoria leaf spot/02004_septoria_tomato.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1070
+train/Tomato Septoria leaf spot/02005_septoria-leaf-spot-2.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1071
+train/Tomato Septoria leaf spot/02006_septoria-leaf-spot-in-tomatoes.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1072
+train/Tomato Septoria leaf spot/02007_septoria-leaf-spot-on-tomato-1.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1073
+train/Tomato Septoria leaf spot/02008_septoria-leaf-spot-tomato-1.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1074
+train/Tomato Septoria leaf spot/02009_septoria-leaf-spot-tomatoes1x2400-17g2jzo.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1075
+train/Tomato Septoria leaf spot/02010_septoria-leaf-spot-tomatoes2x2400-202yoxg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1076
+train/Tomato Septoria leaf spot/02011_septoria-leaf-spot-treatment-leaf-spot-septoria-leaf-spot-soil-treatment-septoria-leaf-spot-tomato-organic-treatment.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1077
+train/Tomato Septoria leaf spot/02012_septoria-leafspot-on-tomato-leaf-rp-c.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1078
+train/Tomato Septoria leaf spot/02013_septoria-lycopersici-ascomycota-common-fungal-leaf-disease-of-tomato-picture-id128110611.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1079
+train/Tomato Septoria leaf spot/02014_septoria-tomato-leaf.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1080
+train/Tomato Septoria leaf spot/02015_septoria2_600px.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1081
+train/Tomato Septoria leaf spot/02016_septoria3.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1082
+train/Tomato Septoria leaf spot/02017_septoria5.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1083
+train/Tomato Septoria leaf spot/02018_septoria_leaf_spot_of_tomato-1500x750.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1084
+train/Tomato Septoria leaf spot/02019_septoria_tom_leaves1x1200.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1085
+train/Tomato Septoria leaf spot/02020_septoria_tom_seedlings2x1200.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1086
+train/Tomato Septoria leaf spot/02021_septoria_tom_seedlings5x1200.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1087
+train/Tomato Septoria leaf spot/02022_septoria_tomato.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1088
+train/Tomato Septoria leaf spot/02023_septorialeafspot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1089
+train/Tomato Septoria leaf spot/02024_septorialeafspot2.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1090
+train/Tomato Septoria leaf spot/02025_septorialycopersici_small.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1091
+train/Tomato Septoria leaf spot/02026_slide21-n.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1092
+train/Tomato Septoria leaf spot/02027_sls1.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1093
+train/Tomato Septoria leaf spot/02028_tomato_2Bseptoria_2Bleaf_2Bspot2.JPG.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1094
+train/Tomato Septoria leaf spot/02029_tomato-badleaves.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1095
+train/Tomato Septoria leaf spot/02030_tomato-blight-treatment-blight.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1096
+train/Tomato Septoria leaf spot/02031_tomato-disease-septoria-leaf-spot-d7e1x9.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1097
+train/Tomato Septoria leaf spot/02032_tomato-disease-septoria-leaf-spot-d7e1xe.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1098
+train/Tomato Septoria leaf spot/02033_tomato-disease-septoria-leaf-spot-d7e1xm.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1099
+train/Tomato Septoria leaf spot/02034_tomato-diseases-1-638.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1100
+train/Tomato Septoria leaf spot/02035_tomato-early-blight-e1437503226856.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1101
+train/Tomato Septoria leaf spot/02036_tomato-leaf-spot-septoria-lycopersici-leaf-spotting-on-tomato-at9jap.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1102
+train/Tomato Septoria leaf spot/02037_tomato-leaf-spot-septoria-lycopersici-on-a-tomato-leaflet-acg9j5.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1103
+train/Tomato Septoria leaf spot/02038_tomato-plant-is-infected-with-septoria-leaf-spot-1.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1104
+train/Tomato Septoria leaf spot/02039_tomato-plant-is-infected-with-septoria-leaf-spot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1105
+train/Tomato Septoria leaf spot/02040_tomato-septoria-3-500x384.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1107
+train/Tomato Septoria leaf spot/02041_tomato-septoria-3.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1107
+train/Tomato Septoria leaf spot/02042_tomato-septoria-5-500x384.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1109
+train/Tomato Septoria leaf spot/02043_tomato-septoria-5.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1109
+train/Tomato Septoria leaf spot/02044_tomato-septoria-leaf-spot--.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1110
+train/Tomato Septoria leaf spot/02045_tomato-septoria-leaf-spot-.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1111
+train/Tomato Septoria leaf spot/02046_tomato-septoria-leaf-spot-600.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1112
+train/Tomato Septoria leaf spot/02047_tomato-septoria-leaf-spot.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1113
+train/Tomato Septoria leaf spot/02048_tomato_V8.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_excluded_dup,1196
+train/Tomato Septoria leaf spot/02049_tomato_leaf_spots_1500x1500_253E.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1115
+train/Tomato Septoria leaf spot/02050_tomato_leaves_300x300_2523.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1116
+train/Tomato Septoria leaf spot/02051_tomato_septoria_05_zoom.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1117
+train/Tomato Septoria leaf spot/02052_tomato_septoria_alternaria_1.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1118
+train/Tomato Septoria leaf spot/02053_tomatofactsheet.png.png,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1119
+train/Tomato Septoria leaf spot/02054_tomatoseptorialeafspotjpg-788d20798a3c74e7.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_val,1120
+train/Tomato Septoria leaf spot/02055_vdu-tomato-sept-eb-285x300.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1121
+train/Tomato Septoria leaf spot/02056_web1_copy_tomato-septoria-leaf-spot4.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1122
+train/Tomato Septoria leaf spot/02057_x3-most-common-types-tomato-blight.jpg.pagespeed.ic.5cLJi6TXEi.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1123
+train/Tomato Septoria leaf spot/02058_xgray-leaf-spot.jpg.pagespeed.ic.ltF8KfKtQ1.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_train,1124
+train/Tomato two spotted spider mites leaf/02522_SpotSpeckBlightMite-1l4v879.jpg,Tomato two spotted spider mites leaf,Tomato___Spider_mites Two-spotted_spider_mite,pd_train,1125
+train/Tomato two spotted spider mites leaf/02523_comparing-diseases-4-canker-tomato-1y51ejs.jpg,Tomato two spotted spider mites leaf,Tomato___Spider_mites Two-spotted_spider_mite,pd_train,1126
+test/Apple leaf/00017_20180511_090912-14gtw8a-e1526047952754.jpg,Apple leaf,Apple___healthy,pd_test,1127
+test/Apple leaf/00018_20180511_091133-24l1vhg-e1526047988236.jpg,Apple leaf,Apple___healthy,pd_test,1128
+test/Apple leaf/00019_20180511_091252-1gy5xf5-e1526048000596.jpg,Apple leaf,Apple___healthy,pd_test,1129
+test/Apple leaf/00020_4120978-single-green-leaf-of-apple-tree.jpg,Apple leaf,Apple___healthy,pd_test,1130
+test/Apple leaf/00021_Apple-Leaf-Wallpaper-17.jpg,Apple leaf,Apple___healthy,pd_test,1131
+test/Apple leaf/00022_apple-leaf-14319997.jpg,Apple leaf,Apple___healthy,pd_test,1132
+test/Apple leaf/00023_apple-leaf-9834637.jpg,Apple leaf,Apple___healthy,pd_test,1133
+test/Apple leaf/00024_apple-leaf-closeup-37636177.jpg,Apple leaf,Apple___healthy,pd_test,1134
+test/Apple leaf/00025_apple-leaf-isolated-white-background-56631026.jpg,Apple leaf,Apple___healthy,pd_test,1135
+test/Apple rust leaf/00027_02.-Rust-2017-207u24s.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_test,1136
+test/Apple rust leaf/00028_0605_Rust-induced_leafspot.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_test,1137
+test/Apple rust leaf/00029_185161-004-EAF28842.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_test,1138
+test/Apple rust leaf/00030_2011-011.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_test,1139
+test/Apple rust leaf/00031_20130519cedarapplerust.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_test,1140
+test/Apple rust leaf/00032_20130610_110514.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_test,1141
+test/Apple rust leaf/00033_20130802_111632.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_test,1142
+test/Apple rust leaf/00034_4-apple-rust2_19011_matt-bertone.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_test,1143
+test/Apple rust leaf/00035_9343310-small.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_test,1144
+test/Apple rust leaf/00036_99e886623c2080c22f6519b0e708c531.jpg,Apple rust leaf,Apple___Cedar_apple_rust,pd_test,1145
+test/Apple Scab Leaf/00006_052609_20Hartman_20Crabapple_20scab_20single_20leaf.JPG.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_test,1146
+test/Apple Scab Leaf/00007_1b321015-6e33-4f18-aade-888f4383fe92.jpeg.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_test,1147
+test/Apple Scab Leaf/00008_28-500x375.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_test,1148
+test/Apple Scab Leaf/00009_816.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_test,1149
+test/Apple Scab Leaf/00010_apple_20scab_20leaf.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_test,1150
+test/Apple Scab Leaf/00011_apple_20scabnew.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_test,1151
+test/Apple Scab Leaf/00012_apple-scab-5366820.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_test,1152
+test/Apple Scab Leaf/00013_apples_apple-scab_01_zoom.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_test,1153
+test/Apple Scab Leaf/00014_apples_apple-scab_02_thm.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_test,1154
+test/Apple Scab Leaf/00015_apples_apple-scab_10_zoom.jpg,Apple Scab Leaf,Apple___Apple_scab,pd_test,1155
+test/Potato leaf early blight/00119_3023.jpg,Potato leaf early blight,Potato___Early_blight,pd_test,1156
+test/Potato leaf early blight/00120_backus-056-potato-blight.jpg,Potato leaf early blight,Potato___Early_blight,pd_test,1157
+test/Potato leaf early blight/00121_early-blight-alternaria-alternata-leaf-spotting-on-potato-leaf-X91XJE.jpg,Potato leaf early blight,Potato___Early_blight,pd_test,1158
+test/Potato leaf early blight/00122_early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-AXK6AY.jpg,Potato leaf early blight,Potato___Early_blight,pd_test,1159
+test/Potato leaf early blight/00123_earlyblightpotato.jpg,Potato leaf early blight,Potato___Early_blight,pd_test,1160
+test/Potato leaf early blight/00124_potato-blight-phytophthora-infestans-close-up-of-upper-surface-of-BMMRXC.jpg,Potato leaf early blight,Potato___Early_blight,pd_test,1161
+test/Potato leaf early blight/00125_potato-early-blight-alternaria-alternata-lesion-on-a-potato-leaf-a1w1em.jpg,Potato leaf early blight,Potato___Early_blight,pd_test,1162
+test/Potato leaf early blight/00126_potatobd001.jpg,Potato leaf early blight,Potato___Early_blight,pd_test,1163
+test/Potato leaf late blight/00128_1421_0.jpeg_itok_FMtmgePj.jpg,Potato leaf late blight,Potato___Late_blight,pd_test,1164
+test/Potato leaf late blight/00129_20090710-lateblight.jpg,Potato leaf late blight,Potato___Late_blight,pd_test,1165
+test/Potato leaf late blight/00130_2540_600.jpg,Potato leaf late blight,Potato___Late_blight,pd_test,1166
+test/Potato leaf late blight/00131_5816740026_d42ef24413_Phytophthora-Infestans.jpg,Potato leaf late blight,Potato___Late_blight,pd_test,1167
+test/Potato leaf late blight/00132_B2750109-Late_blight_on_a_potato_plant-SPL.jpg,Potato leaf late blight,Potato___Late_blight,pd_test,1168
+test/Potato leaf late blight/00133_LateBlight04.jpg,Potato leaf late blight,Potato___Late_blight,pd_test,1169
+test/Potato leaf late blight/00134_irish-blight-symptoms-on-potato-leaves-atmf8b.jpg,Potato leaf late blight,Potato___Late_blight,pd_test,1170
+test/Potato leaf late blight/00135_potato-late-blight.jpg,Potato leaf late blight,Potato___Late_blight,pd_test,1171
+test/Tomato Early blight leaf/00170_039b47d574bc4bb8a14259a1cd96a741.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_test,1172
+test/Tomato Early blight leaf/00171_100983448.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_test,1173
+test/Tomato Early blight leaf/00172_1234080-Early-Blight.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_test,1174
+test/Tomato Early blight leaf/00173_Shoemaker_7068.JPG.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_test,1175
+test/Tomato Early blight leaf/00174_bugs-and-blight-061.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_test,1176
+test/Tomato Early blight leaf/00175_dscn3175.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_test,1177
+test/Tomato Early blight leaf/00176_early_blight1-150x150.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_test,1178
+test/Tomato Early blight leaf/00177_earlyblight21_.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_test,1179
+test/Tomato Early blight leaf/00178_tomato_early-blight_01_zoom.jpg,Tomato Early blight leaf,Tomato___Early_blight,pd_test,1180
+test/Tomato leaf/00231_1684.jpg,Tomato leaf,Tomato___healthy,pd_test,1181
+test/Tomato leaf/00232_2013-08-20-06.jpg,Tomato leaf,Tomato___healthy,pd_test,1182
+test/Tomato leaf/00233_90e2c0.jpg,Tomato leaf,Tomato___healthy,pd_test,1183
+test/Tomato leaf/00234_DSCN1015.JPG.jpg,Tomato leaf,Tomato___healthy,pd_test,1184
+test/Tomato leaf/00235_IMG_1246.jpg,Tomato leaf,Tomato___healthy,pd_test,1185
+test/Tomato leaf/00236_Tomato59.JPG.jpg,Tomato leaf,Tomato___healthy,pd_test,1186
+test/Tomato leaf/00237_Tomato_leaf.jpg,Tomato leaf,Tomato___healthy,pd_test,1187
+test/Tomato leaf/00238_main-qimg-d9c2a93f60568485c989670d9bbf703b.jpg,Tomato leaf,Tomato___healthy,pd_test,1188
+test/Tomato leaf bacterial spot/00192__2320_Bacterial_Spot_and_Speck.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_test,1189
+test/Tomato leaf bacterial spot/00193_07.17.18-Common_Tomato_Diseases_Canker-258x300.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_test,1190
+test/Tomato leaf bacterial spot/00194_Bacterial_spots563.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_test,1191
+test/Tomato leaf bacterial spot/00195_Tom_Bact3.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_test,1192
+test/Tomato leaf bacterial spot/00196_Tom_Bact7.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_test,1193
+test/Tomato leaf bacterial spot/00197_Tomato_2BBacterial_2BSpot_2Bon_2BLeaves.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_test,1194
+test/Tomato leaf bacterial spot/00198_bact-spot-fig-1.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_test,1195
+test/Tomato leaf bacterial spot/00199_tomato_V8.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_test,1196
+test/Tomato leaf bacterial spot/00200_tomato_bacterial-speck_01_zoom.jpg,Tomato leaf bacterial spot,Tomato___Bacterial_spot,pd_test,1197
+test/Tomato leaf late blight/00202_110822-206-Tomato-blight.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_test,1198
+test/Tomato leaf late blight/00203_18c.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_test,1199
+test/Tomato leaf late blight/00204_636368370164094909-late-blight-15-.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_test,1200
+test/Tomato leaf late blight/00205_70.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_test,1201
+test/Tomato leaf late blight/00206_E_29Tomato-late-blight-foliar.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_test,1202
+test/Tomato leaf late blight/00207_IMG_5808.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_test,1203
+test/Tomato leaf late blight/00208_LateBlt09_06.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_test,1204
+test/Tomato leaf late blight/00209_dsc_8148cs.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_test,1205
+test/Tomato leaf late blight/00210_image.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_test,1206
+test/Tomato leaf late blight/00211_late_blight_tomato_leaf_spore1x1200.jpg,Tomato leaf late blight,Tomato___Late_blight,pd_test,1207
+test/Tomato leaf mosaic virus/00213_9511.img.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_test,1208
+test/Tomato leaf mosaic virus/00214_D_29AlfMov.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_test,1209
+test/Tomato leaf mosaic virus/00215_Tomato-Mosaic-1wdr2jx-300x225.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_test,1210
+test/Tomato leaf mosaic virus/00216_everystockphoto-21099455-l.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_test,1211
+test/Tomato leaf mosaic virus/00217_ill-tomato-of-tomato-mosaic-virus-DBE17N.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_test,1212
+test/Tomato leaf mosaic virus/00218_page_2.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_test,1213
+test/Tomato leaf mosaic virus/00219_tmv-tomato-34.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_test,1214
+test/Tomato leaf mosaic virus/00220_tmv-tomato-9.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_test,1215
+test/Tomato leaf mosaic virus/00221_toma_TMV.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_test,1216
+test/Tomato leaf mosaic virus/00222_tomato_virus_04_zoom.jpg,Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,pd_test,1217
+test/Tomato leaf yellow virus/00224_11-40580_5.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_test,1218
+test/Tomato leaf yellow virus/00225_17fc47.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_test,1219
+test/Tomato leaf yellow virus/00226_8226402877_9abf151b5b_b.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_test,1220
+test/Tomato leaf yellow virus/00227_fwa2013313115151.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_test,1221
+test/Tomato leaf yellow virus/00228_glyphosate.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_test,1222
+test/Tomato leaf yellow virus/00229_tylcv-seminar-1-638.jpg,Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,pd_test,1223
+test/Tomato mold leaf/00240_49_20Leafmold_20Bottom.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_test,1224
+test/Tomato mold leaf/00241_50_20Leafmold_20Top.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_test,1225
+test/Tomato mold leaf/00242_BIGSD.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_test,1226
+test/Tomato mold leaf/00243_black_leaf_mold_in_zina_tina.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_test,1227
+test/Tomato mold leaf/00244_dscn6689.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_test,1228
+test/Tomato mold leaf/00245_fungus-univ-of-minnesoeta.jpg,Tomato mold leaf,Tomato___Leaf_Mold,pd_test,1229
+test/Tomato Septoria leaf spot/00180_0.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_test,1230
+test/Tomato Septoria leaf spot/00181_2STEM.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_test,1231
+test/Tomato Septoria leaf spot/00182_2septoria-tomato.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_test,1232
+test/Tomato Septoria leaf spot/00183_55830b60a7cf2.image.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_test,1233
+test/Tomato Septoria leaf spot/00184_6134794031202304.jpeg.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_test,1234
+test/Tomato Septoria leaf spot/00185_636227737977191231-septoria-leaf-spot-VT.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_test,1235
+test/Tomato Septoria leaf spot/00186_6447731_orig.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_test,1236
+test/Tomato Septoria leaf spot/00187_7-17-Photo3_Septoria-MARY.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_test,1237
+test/Tomato Septoria leaf spot/00188_RARZ4.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_test,1238
+test/Tomato Septoria leaf spot/00189_early-blight-septoria-ls-fig-3.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_test,1239
+test/Tomato Septoria leaf spot/00190_sept4disease-019.jpg,Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,pd_test,1240

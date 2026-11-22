@@ -1,0 +1,250 @@
+{
+  "cos_threshold": 0.78,
+  "dhash_threshold": 12,
+  "n_test": 114,
+  "known_excluded_dup_cos": [
+    0.9151995182037354,
+    0.957444965839386,
+    0.9999991059303284,
+    0.9999991655349731,
+    0.9999992847442627,
+    0.9999993443489075,
+    0.9999993443489075,
+    0.9999994039535522,
+    0.9999997019767761,
+    0.9999997615814209
+  ],
+  "max_cos_to_training_pool_percentiles": {
+    "50": 0.7233709096908569,
+    "90": 0.8091086745262146,
+    "99": 0.9610648429393771,
+    "100": 0.9770002365112305
+  },
+  "candidates": [
+    {
+      "test": "test/Potato leaf early blight/00121_early-blight-alternaria-alternata-leaf-spotting-on-potato-leaf-X91XJE.jpg",
+      "test_label": "Potato___Early_blight",
+      "cos": 0.9770002365112305,
+      "pool": "pd_train",
+      "match": "train/Potato leaf early blight/01307_early-blight-alternaria-alternata-leaf-spotting-on-potato-leaf-ACG5WF.jpg",
+      "match_label": "Potato___Early_blight",
+      "dhash_min_in_pool": 8
+    },
+    {
+      "test": "test/Tomato Septoria leaf spot/00183_55830b60a7cf2.image.jpg",
+      "test_label": "Tomato___Septoria_leaf_spot",
+      "cos": 0.9623069167137146,
+      "pool": "pd_val",
+      "match": "train/Tomato Septoria leaf spot/02038_tomato-plant-is-infected-with-septoria-leaf-spot-1.jpg",
+      "match_label": "Tomato___Septoria_leaf_spot",
+      "dhash_min_in_pool": 14
+    },
+    {
+      "test": "test/Tomato Early blight leaf/00176_early_blight1-150x150.jpg",
+      "test_label": "Tomato___Early_blight",
+      "cos": 0.9002032279968262,
+      "pool": "pd_train",
+      "match": "train/Potato leaf early blight/01315_early_blight1.jpg",
+      "match_label": "Potato___Early_blight",
+      "dhash_min_in_pool": 17
+    },
+    {
+      "test": "test/Tomato leaf/00238_main-qimg-d9c2a93f60568485c989670d9bbf703b.jpg",
+      "test_label": "Tomato___healthy",
+      "cos": 0.8577678799629211,
+      "pool": "pd_train",
+      "match": "train/Tomato leaf/02430_tomato-leaf.jpg",
+      "match_label": "Tomato___healthy",
+      "dhash_min_in_pool": 14
+    },
+    {
+      "test": "test/Apple leaf/00024_apple-leaf-closeup-37636177.jpg",
+      "test_label": "Apple___healthy",
+      "cos": 0.8477360010147095,
+      "pool": "pd_val",
+      "match": "train/Apple leaf/00398_green-leaf-apple-tree-isolated-white-background-33032695.jpg",
+      "match_label": "Apple___healthy",
+      "dhash_min_in_pool": 13
+    },
+    {
+      "test": "test/Tomato leaf yellow virus/00226_8226402877_9abf151b5b_b.jpg",
+      "test_label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "cos": 0.8440271019935608,
+      "pool": "pd_train",
+      "match": "train/Tomato leaf yellow virus/02353_s-prasanth-kumar-young-scientist-awarded-presentation-2-728.jpg",
+      "match_label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "dhash_min_in_pool": 17
+    },
+    {
+      "test": "test/Tomato leaf bacterial spot/00197_Tomato_2BBacterial_2BSpot_2Bon_2BLeaves.jpg",
+      "test_label": "Tomato___Bacterial_spot",
+      "cos": 0.8411285877227783,
+      "pool": "pd_val",
+      "match": "train/Tomato Septoria leaf spot/01960_Leaf_20spot.jpg",
+      "match_label": "Tomato___Septoria_leaf_spot",
+      "dhash_min_in_pool": 14
+    },
+    {
+      "test": "test/Apple leaf/00020_4120978-single-green-leaf-of-apple-tree.jpg",
+      "test_label": "Apple___healthy",
+      "cos": 0.8376628160476685,
+      "pool": "pd_val",
+      "match": "train/Apple leaf/00427_stock-photo-one-green-leaf-of-apple-tree-isolated-on-white-background-close-up-studio-photography-102522179.jpg",
+      "match_label": "Apple___healthy",
+      "dhash_min_in_pool": 6
+    },
+    {
+      "test": "test/Tomato leaf/00235_IMG_1246.jpg",
+      "test_label": "Tomato___healthy",
+      "cos": 0.8202251195907593,
+      "pool": "pd_train",
+      "match": "train/Tomato leaf late blight/02222_late_blight_tomato_leaf1x1200.jpg",
+      "match_label": "Tomato___Late_blight",
+      "dhash_min_in_pool": 18
+    },
+    {
+      "test": "test/Potato leaf early blight/00125_potato-early-blight-alternaria-alternata-lesion-on-a-potato-leaf-a1w1em.jpg",
+      "test_label": "Potato___Early_blight",
+      "cos": 0.8162121772766113,
+      "pool": "pd_train",
+      "match": "train/Potato leaf early blight/01336_potato-early-blight-alternaria-alternata-lesion-on-a-potato-leaf-X96EFD.jpg",
+      "match_label": "Potato___Early_blight",
+      "dhash_min_in_pool": 6
+    },
+    {
+      "test": "test/Tomato leaf yellow virus/00227_fwa2013313115151.jpg",
+      "test_label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "cos": 0.8091336488723755,
+      "pool": "pd_train",
+      "match": "train/Tomato leaf yellow virus/02310_1342017-162221-44540.jpg",
+      "match_label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "dhash_min_in_pool": 12
+    },
+    {
+      "test": "test/Tomato Early blight leaf/00178_tomato_early-blight_01_zoom.jpg",
+      "test_label": "Tomato___Early_blight",
+      "cos": 0.809008777141571,
+      "pool": "pd_train",
+      "match": "train/Tomato Early blight leaf/01860_Early_blight_1.jpg_1376579808.jpg",
+      "match_label": "Tomato___Early_blight",
+      "dhash_min_in_pool": 17
+    },
+    {
+      "test": "test/Apple Scab Leaf/00006_052609_20Hartman_20Crabapple_20scab_20single_20leaf.JPG.jpg",
+      "test_label": "Apple___Apple_scab",
+      "cos": 0.8079434037208557,
+      "pool": "pv_train",
+      "match": "Apple___Apple_scab/4abca5eb-2376-4551-be42-25bbb5400fc7___FREC_Scab 3268.JPG",
+      "match_label": "Apple___Apple_scab",
+      "dhash_min_in_pool": null
+    },
+    {
+      "test": "test/Potato leaf late blight/00132_B2750109-Late_blight_on_a_potato_plant-SPL.jpg",
+      "test_label": "Potato___Late_blight",
+      "cos": 0.8044456243515015,
+      "pool": "pd_train",
+      "match": "train/Potato leaf early blight/01251_1200px-Late_blight_on_potato_leaf_2.jpg",
+      "match_label": "Potato___Early_blight",
+      "dhash_min_in_pool": 20
+    },
+    {
+      "test": "test/Apple leaf/00025_apple-leaf-isolated-white-background-56631026.jpg",
+      "test_label": "Apple___healthy",
+      "cos": 0.7962424159049988,
+      "pool": "pd_train",
+      "match": "train/Apple leaf/00402_leaves-isolated-on-white-background-picture-id537925565_k_6_m_537925565_s_612x612_w_0_h_Ogzc4YHTI4i4q9aiTIG6Zq2sAMv6xTKiDlCmYANlzK8_.jpg",
+      "match_label": "Apple___healthy",
+      "dhash_min_in_pool": 5
+    },
+    {
+      "test": "test/Apple rust leaf/00032_20130610_110514.jpg",
+      "test_label": "Apple___Cedar_apple_rust",
+      "cos": 0.7939262986183167,
+      "pool": "pd_val",
+      "match": "train/Tomato leaf bacterial spot/02102_Leaf_2Bspot_2B1000.jpg",
+      "match_label": "Tomato___Bacterial_spot",
+      "dhash_min_in_pool": 18
+    },
+    {
+      "test": "test/Apple leaf/00023_apple-leaf-9834637.jpg",
+      "test_label": "Apple___healthy",
+      "cos": 0.7919462323188782,
+      "pool": "pd_val",
+      "match": "train/Apple leaf/00398_green-leaf-apple-tree-isolated-white-background-33032695.jpg",
+      "match_label": "Apple___healthy",
+      "dhash_min_in_pool": 13
+    },
+    {
+      "test": "test/Tomato leaf bacterial spot/00200_tomato_bacterial-speck_01_zoom.jpg",
+      "test_label": "Tomato___Bacterial_spot",
+      "cos": 0.7899191379547119,
+      "pool": "pd_train",
+      "match": "train/Tomato Early blight leaf/01865_Original_e-blight.JPG.rend.hgtvcom.966.725.jpeg.jpg",
+      "match_label": "Tomato___Early_blight",
+      "dhash_min_in_pool": 18
+    },
+    {
+      "test": "test/Tomato leaf/00231_1684.jpg",
+      "test_label": "Tomato___healthy",
+      "cos": 0.7845021486282349,
+      "pool": "pd_train",
+      "match": "train/Tomato leaf/02430_tomato-leaf.jpg",
+      "match_label": "Tomato___healthy",
+      "dhash_min_in_pool": 14
+    },
+    {
+      "test": "test/Potato leaf early blight/00119_3023.jpg",
+      "test_label": "Potato___Early_blight",
+      "cos": 0.7817298769950867,
+      "pool": "pd_val",
+      "match": "train/Potato leaf late blight/01405_blight-on-potato-leaves.jpg",
+      "match_label": "Potato___Late_blight",
+      "dhash_min_in_pool": 18
+    },
+    {
+      "test": "test/Tomato leaf late blight/00206_E_29Tomato-late-blight-foliar.jpg",
+      "test_label": "Tomato___Late_blight",
+      "cos": 0.7813472747802734,
+      "pool": "pv_train",
+      "match": "Tomato___Septoria_leaf_spot/1e8f411c-7f6b-42c0-8c84-70486b6c91d1___Keller.St_CG 1824.JPG",
+      "match_label": "Tomato___Septoria_leaf_spot",
+      "dhash_min_in_pool": null
+    },
+    {
+      "test": "test/Tomato Septoria leaf spot/00188_RARZ4.jpg",
+      "test_label": "Tomato___Septoria_leaf_spot",
+      "cos": 0.7802752256393433,
+      "pool": "pd_train",
+      "match": "train/Tomato Early blight leaf/01860_Early_blight_1.jpg_1376579808.jpg",
+      "match_label": "Tomato___Early_blight",
+      "dhash_min_in_pool": 15
+    },
+    {
+      "test": "test/Apple leaf/00022_apple-leaf-14319997.jpg",
+      "test_label": "Apple___healthy",
+      "cos": 0.7429603934288025,
+      "pool": "pd_train",
+      "match": "train/Apple leaf/00411_stock-photo-apple-leaf-isolated-on-white-background-287560226.jpg",
+      "match_label": "Apple___healthy",
+      "dhash_min_in_pool": 10
+    },
+    {
+      "test": "test/Tomato leaf mosaic virus/00214_D_29AlfMov.jpg",
+      "test_label": "Tomato___Tomato_mosaic_virus",
+      "cos": 0.7114546298980713,
+      "pool": "pd_train",
+      "match": "train/Potato leaf late blight/01391_LateBlight13.jpg",
+      "match_label": "Potato___Late_blight",
+      "dhash_min_in_pool": 11
+    },
+    {
+      "test": "test/Potato leaf late blight/00135_potato-late-blight.jpg",
+      "test_label": "Potato___Late_blight",
+      "cos": 0.6228125095367432,
+      "pool": "pd_train",
+      "match": "train/Potato leaf late blight/01425_lateblight1.JPG.jpg",
+      "match_label": "Potato___Late_blight",
+      "dhash_min_in_pool": 12
+    }
+  ]
+}
