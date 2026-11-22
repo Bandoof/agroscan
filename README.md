@@ -55,7 +55,7 @@ python scripts/prepare_data.py --download $d --out $HOME\datasets\plantvillage\a
 python scripts/explore_data.py
 ```
 
-> **Ліцензії зображень у `results/`.** Рисунки [`sample_grid.png`](results/sample_grid.png), [`plantdoc_examples.png`](results/plantdoc_examples.png), [`v2/bg_augmentation.png`](results/v2/bg_augmentation.png) і [`v2/leak_candidates.png`](results/v2/leak_candidates.png) містять фото з датасетів і поширюються на умовах ліцензій цих датасетів:
+> **Ліцензії зображень у `results/`.** Рисунки [`sample_grid.png`](results/sample_grid.png), [`plantdoc_examples.png`](results/plantdoc_examples.png), [`v2/bg_augmentation.png`](results/v2/bg_augmentation.png), [`v2/leak_candidates.png`](results/v2/leak_candidates.png) і [`v2/v1_vs_v2_examples.png`](results/v2/v1_vs_v2_examples.png) містять фото з датасетів і поширюються на умовах ліцензій цих датасетів:
 > - **PlantVillage:** CC BY-SA 3.0, © Mohanty, Hughes, Salathé (2016);
 > - **PlantDoc:** CC BY 4.0, © Singh et al. (2020).
 >
@@ -139,6 +139,8 @@ python scripts/bench_inference.py   # час інференсу CPU / GPU
 | | top-3 | 53.3 % | **86.9 %** | +33.6 п.п. [24.3; 42.1] |
 | | macro-F1 | 25.3 % | **57.7 %** | +32.4 п.п. [23.1; 41.1] |
 | PlantDoc test повний (n = 114), довідково | top-1 | 29.8 % | 61.4 % | +31.6 п.п. |
+
+**Приклади розбіжностей** ([`v1_vs_v2_examples.png`](results/v2/v1_vs_v2_examples.png), скрипт [`plot_v1_v2_examples.py`](scripts/plot_v1_v2_examples.py)). На чистому test є 34 фото, де права лише v2, і 2, де права лише v1. На рисунку 8 випадково вибраних фото першої групи (seed 42) і обидва фото другої. В обох помилках v2 правильно визначила хворобу (альтернаріоз), але сплутала культуру: картопля замість томата.
 
 **Як вплинув витік.** На повному test (114) top-1 v2 становив 61.4 %, а без 7 фото з витоком — 58.9 % (−2.5 п.п.; macro-F1 −3.3 п.п.). Для v1, яка PlantDoc не бачила, цифри майже не змінилися: 29.8 % → 29.0 %.
 
